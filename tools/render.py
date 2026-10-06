@@ -46,7 +46,8 @@ def main() -> None:
     done = count["reviewed"] + count["in-gxd"]
 
     def pill(state: str) -> str:
-        return f'<span class="pill" style="background:{COLORS.get(state, "#999")}">{e(label.get(state, state))}</span>'
+        ink = "#1d1d1b" if state in ("missing", "need-review", "need-ocr", "need-image") else "#fff"  # dark text on light pills
+        return f'<span class="pill" style="background:{COLORS.get(state, "#999")};color:{ink}">{e(label.get(state, state))}</span>'
 
     def table(rs, cols) -> str:
         head = "".join(f"<th>{c}</th>" for c, _ in cols)
