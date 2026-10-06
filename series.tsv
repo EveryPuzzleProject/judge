@@ -1,0 +1,5 @@
+series	name	days	from	to	numbers	status	source
+numbered-1924	Judge's Crossword Puzzle, first run	weekly	1924-11-01	1927-04-23	1–122	in review (blitz); Nos. 6 and 16 not yet harvested	Judge on archive.org; blitz puzzles.tsv
+numbered-1927	Judge's Crossword Puzzle, second run (numbering restarts)	weekly; monthly from August 1932	1927-04-30	1939-01-01	1–415	in review (blitz); 33 numbers not found in the scans	Judge on archive.org; blitz puzzles.tsv
+cover-1924	Cover and extra puzzles (e.g. "The Greatest Puzzle of Them All", 1924-11-15 cover)	occasional	1924-11-15			in review (blitz)	Judge on archive.org
+cross-word-funnies	Cross Word Funnies, selected by Judge (syndicated to newspapers)	a few a week	1925-01	1925-05-30		tracked in funnies.tsv: reprints of numbered puzzles, then puzzles not in Judge	Newspapers.com: Boston Globe, The Province, Hamilton Spectator, Buffalo Courier, St. Joseph Gazette, Philadelphia Inquirer and others
