@@ -26,12 +26,18 @@ which ones, and we'll arrange how to send them.
 | `series.tsv` | Judge's puzzle series: two numbered runs (Nos. 1–122 from 1924, Nos. 1–415 from 1927), cover puzzles, and the 1925 newspaper feature. |
 | `manual.tsv` | Puzzles blitz doesn't list yet, and notes; overrides the state for its rows. |
 | `funnies.tsv` | Cross Word Funnies, one row per puzzle (not per newspaper): which Judge puzzle it reprints, if any, and every paper and date it's been found in. Identified by 1-Across and grid shape. |
+| `fixes/fixes.toml` | Hand fixes to the harvest: page hints, typed grids, extra pages. |
+| `fixes/corrections.jsonl` | The corrections ledger: every accepted change from a review, append-only (who, when, what the OCR read, what it should be). The puzzles are rebuilt from the OCR plus this file. |
+| `fixes/corrections.rejected.jsonl` | Changes a maintainer turned down, with the reason. |
+| `fixes/tool-notes.jsonl` | Reviewers' notes on what the OCR tools got wrong. |
 | `tools/build_status.py` | Builds `status.tsv` from blitz's `publications/judge/puzzles.tsv` plus `manual.tsv`. |
 | `tools/render.py` | Builds the status page. |
 
 `status.tsv` isn't committed: CI rebuilds it from blitz on every push and
 daily, and publishes it with the page (`/status.tsv`). States: `missing`,
 `need-image`, `need-ocr` (in the scans, not yet harvested), `need-review`,
-`in-review`, `needs-person`, `reviewed`, `in-gxd`. This repo holds only
-metadata, never puzzles or page images. Background, sources and open
+`in-review`, `needs-person`, `reviewed`, `in-gxd`. Page images live in the private
+`judge-scans`; the tools are in [blitz](https://github.com/EveryPuzzleProject/blitz)
+and [xword-ocr](https://github.com/EveryPuzzleProject/xword-ocr), which read this
+repo's `fixes/` from a checkout beside them. Background, sources and open
 questions are in the [catalog entry](https://github.com/EveryPuzzleProject/catalog/blob/main/publications/judge.md).

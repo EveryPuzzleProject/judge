@@ -1,0 +1,198 @@
+# Fixes for the judge harvest. See docs/fixing.md.
+#
+# Puzzle fixes are keyed by xd id (shown on each review page):
+#   [puzzle."judgeYYYY-MM-DD"]
+#   title = "..."
+#   [puzzle."judgeYYYY-MM-DD".clues]
+#   A1 = "..."
+#
+# Page hints are keyed by archive.org item and page (leaf):
+#   [page."<identifier>".34]
+#   clue_page = 33
+
+# ---------------------------------------------------------------------------
+# The first Judge crosswords (Nov-Dec 1924)
+# ---------------------------------------------------------------------------
+
+# Nov 15, 1924 (archive.org item dated Nov 8): the first *cover* crossword,
+# "The Greatest Puzzle of Them All", printed over the cover illustration.
+# The cover (page 0) wasn't a text-search candidate; its clues ("Key to
+# Judge's Cover Puzzle") are on page 32.
+[issue."sim_judge_1924-11-08_87"]
+extra_pages = [0]
+
+[page."sim_judge_1924-11-08_87".0]
+clue_page = 32
+
+# Nov 22, 1924 (item dated Nov 15): puzzle No. 4, whose black squares spell
+# JUDGE; its "Key Chart" is on the adjoining page.
+[page."sim_judge_1924-11-15_87".34]
+clue_page = 33
+
+# ---------------------------------------------------------------------------
+# Dates. archive.org's item dated 1927-10-15 contains two issues (puzzles
+# No. 25 and 26), so later items are a week early until the end of 1927.
+# Mastheads fix most of them automatically; this one's masthead is
+# unreadable, but it holds puzzle No. 31, which follows No. 30 (Dec 17).
+# ---------------------------------------------------------------------------
+[issue."sim_judge_1927-12-17_93"]
+date = "1927-12-24"
+
+# The first three weekly puzzles are unnumbered on the page. Counting back
+# weekly from No. 7 (Dec 13, 1924) makes them Nos. 1-3. Their OCR'd titles
+# came from an ad on the facing page.
+[puzzle."judge1924-11-01"]
+title = "Judge's Crossword Puzzles"
+puzzle_number = "1"
+note = "Judge's first crossword, introduced as 'Try this on your cerebellum!' ('Judge will run one of these Home Destroyers each week'). Unnumbered on the page; No. 1 by count."
+
+[puzzle."judge1924-11-08"]
+title = "Judge's Crossword Puzzles"
+puzzle_number = "2"
+note = "Unnumbered on the page; No. 2 by count."
+
+[puzzle."judge1924-11-15b"]
+title = "Judge's Crossword Puzzles"
+puzzle_number = "3"
+note = "Unnumbered on the page; No. 3 by count."
+
+# The cover puzzle, printed over the cover illustration, which hides parts of
+# the grid. Its answers ran on page 34 of the next issue ("Answer to last
+# week's Cover Puzzle"); take the grid from them.
+[puzzle."judge1924-11-15"]
+title = "The Greatest Puzzle of Them All (Judge cover puzzle)"
+note = "Judge's first cover crossword, printed over the cover art; clues in 'Key to Judge's Cover Puzzle' on page 32."
+solution_from = "sim_judge_1924-11-15_87/34#0"
+# The printed answers are in a thin typeface that OCR misreads (PISSE, IAR,
+# ENVELOIES, ...); transcribed by hand from the answer-grid scan.
+grid = [
+  "#MOLAR#PASSE#",
+  "HAREM#M#SHOPS",
+  "ADAM#GAS#OBIT",
+  "RE#OER#TAR#CO",
+  "E#ENVELOPES#P",
+  "#LX#ATILT#ON#",
+  "TO#M#ALE#G#OH",
+  "A#CAT#L#MAN#I",
+  "NO#D#PIE#B#IT",
+  "#FA#PIETY#AS#",
+  "S#PLEASURES#A",
+  "PT#ANN#DSC#AB",
+  "ARAB#ODE#LACE",
+  "NAMES#O#TACIT",
+  "#POLES#FATED#",
+]
+
+[puzzle."judge1924-11-22"]
+title = "Judge's Crossword Puzzle No. 4"
+note = "Black squares spell JUDGE; hatched cells in the scan. Grid needs a hand correction."
+# "Answer to Puzzle No. 4" is under No. 5 on the one surviving puzzle page of
+# the 29 Nov 1924 issue (located by a page hint, see that page below).
+solution_from = "sim_judge_1924-11-29_87/0#0"
+
+[puzzle."judge1926-07-03"]
+# No. 80's key ("Solution to Last Week's Puzzle") is under No. 81 in the
+# 10 July issue. The detector read four black squares in column 7 as letters,
+# so the block patterns differed and it never matched; checked on the scan.
+solution_from = "sim_judge_1926-07-10_91/27#0"
+[puzzle."judge1926-07-03".solution_cells]
+r1c7 = "#"
+r7c7 = "#"
+r9c7 = "#"
+r15c7 = "#"
+r11c6 = "B"
+r13c8 = "L"
+
+[page."sim_judge_1924-11-29_87".0]
+# No. 5's page also prints "Answer to Puzzle No. 4". Its cross-hatched blank
+# squares break detection (it came out as an 8x5 piece); located by hand.
+grids = [ { corners = [[1170, 3249], [2075, 3249], [2075, 3783], [1170, 3783]], rows = 15, cols = 26 } ]
+# No. 5. "(See adjoining page for Key Chart)": the clue page isn't in this
+# 12-page scan, but archive.org has a second, 24-page scan of the same issue
+# (item dated Nov 22; its masthead says Nov 29) whose page 23 is "Key Chart
+# for Judge's Crossword Puzzle No. 5". That scan lacks the puzzle page.
+clue_page = "sim_judge_1924-11-22_87/23"
+
+# Dec 6, 1924: puzzle No. 6, two face-shaped grids, "Before Reading Judge"
+# (1-41) and "—and After" (42-86), sharing one clue list ("Key to Judge's
+# Crossword Puzzle No. 6") on the facing page. The detector read the paper
+# around the faces and the hatched squares as white, so the numbering didn't
+# fit the clues and the automatic pairing rejected them. The two grids are
+# stacked here, separated by a row of blocks, which keeps the printed
+# numbering. Transcribed from "Answer to Puzzle No. 6" under No. 7 in the
+# 13 Dec issue (the answer-grid detector only found a piece of it).
+[page."sim_judge_1924-12-06_87".34]
+clue_page = 33
+
+[puzzle."judge1924-12-06"]
+title = "Judge's Crossword Puzzle No. 6"
+note = "Two face-shaped grids, 'Before Reading Judge' (1-41) and '—and After' (42-86), one clue list; stacked here with a row of blocks between them. Squares outside the faces and the hatched squares are blocks. The two circled squares in the second face (its eyes) are in no entry and are blocks here."
+solution_from = "sim_judge_1924-12-13_87/34#0"
+grid = [
+  "#####SEE#####",
+  "###AMALGAM###",
+  "##ULTIMATUM##",
+  "##R##L#D##U##",
+  "#AN#B#H#P#MM#",
+  "#G#ALMANAC#I#",
+  "MA#BOA#ERA#SO",
+  "PRISON#TOSSED",
+  "#IDEM###LIAR#",
+  "#CONSISTENCY#",
+  "##LT##E##OK##",
+  "##S#TOTES#S##",
+  "###PORTALS###",
+  "####PALSY####",
+  "#####LEE#####",
+  "#############",
+  "#####ABE#####",
+  "###PARADOX###",
+  "##ISLANDERS##",
+  "##N##BAY##P##",
+  "#AF###N###IS#",
+  "#LEG#JAM#ART#",
+  "PARADE#ATTIRE",
+  "ARNICA#ROTTER",
+  "#MON#L#I#ASS#",
+  "#S#SCOOTER#S#",
+  "##U#AURAL#O##",
+  "##PO#SAL#AX##",
+  "###HA#C#IT###",
+  "####SILOS####",
+  "#####FEN#####",
+]
+
+# Feb 14, 1925: puzzle No. 16, a heart. Its clues ("Key to Judge's Crossword
+# Puzzle No. 16") are on the facing page. The detector read the paper around
+# the heart as white squares, so the numbering didn't fit the clues and the
+# automatic pairing rejected them. Grid transcribed from "Answer to Puzzle
+# No. 16" under No. 17 in the 21 Feb issue (the answer-grid detector only
+# found pieces of it); squares outside the heart are blocks.
+[page."sim_judge_1925-02-14_88".34]
+clue_page = 33
+
+[puzzle."judge1925-02-14"]
+title = "Judge's Crossword Puzzle No. 16"
+note = "Heart-shaped grid; squares outside the heart are blocks."
+solution_from = "sim_judge_1925-02-21_88/34#0"
+grid = [
+  "#####OTTO#####IBEX#####",
+  "###BABOONS###CRAVATS###",
+  "#CHOCOLATES#CARNATIONS#",
+  "##CAMELS#E###L#ANEMIA##",
+  "SNORES#TIDY#CLAN#RELICS",
+  "HOLDS#BET#EVE#LAF#RELIC",
+  "IS#S#NOR##LAD##SOS#D#GA",
+  "PEG#LEO#COLLEGE#ROC#HAR",
+  "#REVOLT#HR#E#AS#DARNER#",
+  "##METALLIC#N#DAYDREAM##",
+  "###NI#E#CHATEAU#R#AT###",
+  "###TONGS#I#I#R#RIOTS###",
+  "####NOG#ADENOID#VIE####",
+  "#####WET#SHEBA#EEL#####",
+  "######ROE##S##JAR######",
+  "#######M#JUDGE#R#######",
+  "########ROSALIE########",
+  "##########EYE##########",
+  "##########D#E##########",
+]
