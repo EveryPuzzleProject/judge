@@ -1,0 +1,17 @@
+name: Check reviews
+on:
+  pull_request:
+    paths: ["reviews/**"]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: EveryPuzzleProject/blitz
+          path: .blitz
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python .blitz/tools/check_reviews.py .
