@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
-"""Build status.tsv for Judge's crosswords from blitz's puzzle list plus manual.tsv.
+"""Build status.tsv for Judge's crosswords from puzzles.tsv plus manual.tsv.
 
-    python tools/build_status.py [--blitz URL-or-path]
+    python tools/build_status.py [--puzzles PATH-or-URL]
 
-Everything it reads is public, so it runs in CI on every push and daily.
-blitz (github.com/EveryPuzzleProject/blitz) keeps one row per Judge puzzle
-with its review state; manual.tsv adds puzzles blitz doesn't list yet and
-notes, and overrides the state for its rows.
+puzzles.tsv (one row per Judge puzzle with its review state) is written by the
+tools' sync after each import; manual.tsv adds puzzles the tools don't list yet
+and notes, and overrides the state for its rows. Runs in CI on every push.
 """
 import argparse
 import csv
@@ -15,7 +14,7 @@ import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-BLITZ = "https://raw.githubusercontent.com/EveryPuzzleProject/blitz/main/publications/judge/puzzles.tsv"
+PUZZLES = str(ROOT / "puzzles.tsv")
 COLUMNS = ["xdid", "date", "number", "run", "state", "blitz_state", "note"]
 # blitz state -> ours. Ours, in order: missing, need-image, need-ocr, need-review,
 # in-review, needs-person, reviewed, in-gxd.
@@ -30,12 +29,12 @@ def read(text: str) -> list[dict]:
 
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--blitz", default=BLITZ, help="blitz's publications/judge/puzzles.tsv (URL or path)")
+    ap.add_argument("--puzzles", default=PUZZLES, help="puzzles.tsv (path or URL)")
     a = ap.parse_args()
-    if a.blitz.startswith("http"):
-        text = urllib.request.urlopen(a.blitz, timeout=60).read().decode("utf-8")
+    if a.puzzles.startswith("http"):
+        text = urllib.request.urlopen(a.puzzles, timeout=60).read().decode("utf-8")
     else:
-        text = Path(a.blitz).read_text(encoding="utf-8")
+        text = Path(a.puzzles).read_text(encoding="utf-8")
 
     rows = {}
     for b in read(text):

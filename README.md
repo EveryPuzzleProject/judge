@@ -8,7 +8,7 @@ series ran when, where each puzzle survives, and how far it has got in review.
 
 ## How you can help
 
-- **Review puzzles** in the [Judge packets in blitz](https://github.com/EveryPuzzleProject/blitz/tree/main/publications/judge).
+- **Check puzzles against the scan** on the [review site](https://blitz.xwordapp.com/review/): no account needed.
 - **Find missing puzzles.** The status page lists the numbered puzzles that
   aren't in archive.org's scans of Judge.
 - **Hunt for Cross Word Funnies.** In 1925 newspapers ran Judge's puzzles as
@@ -30,11 +30,14 @@ which ones, and we'll arrange how to send them.
 | `fixes/corrections.jsonl` | The corrections ledger: every accepted change from a review, append-only (who, when, what the OCR read, what it should be). The puzzles are rebuilt from the OCR plus this file. |
 | `fixes/corrections.rejected.jsonl` | Changes a maintainer turned down, with the reason. |
 | `fixes/tool-notes.jsonl` | Reviewers' notes on what the OCR tools got wrong. |
-| `tools/build_status.py` | Builds `status.tsv` from blitz's `publications/judge/puzzles.tsv` plus `manual.tsv`. |
+| `puzzles.tsv` | Every puzzle the tools know of, with its review state (restored, needs-person + reason, missing). Written by the tools' sync after each import; don't edit by hand. |
+| `xd/` | The current .xd of every reviewed puzzle (from the OCR plus `fixes/`). |
+| `reviews/` | Reviews sent as pull requests (two so far, from the 2026-10-02 trial). |
+| `review-notes.md` | What a reviewer needs to know about *Judge*'s pages; `blitz instructions judge` prints it with the general rules. |
+| `tools/build_status.py` | Builds `status.tsv` from `puzzles.tsv` plus `manual.tsv`. |
 | `tools/render.py` | Builds the status page. |
 
-`status.tsv` isn't committed: CI rebuilds it from blitz on every push and
-daily, and publishes it with the page (`/status.tsv`). States: `missing`,
+`status.tsv` isn't committed: CI rebuilds it on every push and daily, and publishes it with the page (`/status.tsv`). States: `missing`,
 `need-image`, `need-ocr` (in the scans, not yet harvested), `need-review`,
 `in-review`, `needs-person`, `reviewed`, `in-gxd`. Page images live in the private
 `judge-scans`; the tools are in [blitz](https://github.com/EveryPuzzleProject/blitz)
