@@ -196,3 +196,7 @@ grid = [
   "##########EYE##########",
   "##########D#E##########",
 ]
+
+# Checked against the scan 2026-10-09 (gxd export prep).
+[puzzle."judge1937-05-01"]
+note = "The printed Across list has a clue 60, 'The human thing to do.', but the printed grid has no 60 Across: square 60 starts only 60 Down (Pot manufacturer), and 59 Across is the two squares before it. A misprint in the magazine; the clue is kept here."
