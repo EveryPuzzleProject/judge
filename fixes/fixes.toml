@@ -200,3 +200,6 @@ grid = [
 # Checked against the scan 2026-10-09 (gxd export prep).
 [puzzle."judge1937-05-01"]
 note = "The printed Across list has a clue 60, 'The human thing to do.', but the printed grid has no 60 Across: square 60 starts only 60 Down (Pot manufacturer), and 59 Across is the two squares before it. A misprint in the magazine; the clue is kept here."
+
+[puzzle."judge1934-06-01c"]
+skip = "The same printed page as judge1934-06-01 (page 30, No. 310), scanned twice in the archive.org item: leaf 31 is a copy filled in by a reader, leaf 33 a clean copy."
