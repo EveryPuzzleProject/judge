@@ -1017,3 +1017,24 @@ solution = [
   "AGO#AMOS#ONES#ARA",
   "BEE#RASH#BOYS#PAY",
 ]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1927-10-15"]
+note = "The answer key ran the next week, on No. 26's page ('Solution of Last Week's Puzzle', https://archive.org/details/sim_judge_1927-10-15_93/page/n63/mode/1up; archive.org's 1927-10-15 item holds two issues). The harvest read it only in pieces; the key here is read from the scan."
+solution = [
+  "ASP#MADAM#LAMBS",
+  "POUR#DOMES#AERO",
+  "ALBUM#MONEY#RIB",
+  "GO#SAGAS#PEACE#",
+  "E#OER#I#O#AMY#V",
+  "#GAS#SNAKE#A#HE",
+  "SOS#IT#T#RUSSEL",
+  "PAIL#IGLOO#AARD",
+  "ITSELF#A#DX#HOT",
+  "NS#M#FUSEE#RID#",
+  "E#POE#S#R#HUB#H",
+  "#KINGS#OAKEN#WO",
+  "ANN#GIRLS#RIDER",
+  "LETS#ROGER#CAIN",
+  "PESTS#BADEN#MRS",
+]
