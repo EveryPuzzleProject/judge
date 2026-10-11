@@ -211,3 +211,11 @@ skip = "The same printed page as judge1934-06-01 (page 30, No. 310), scanned twi
 # Checked against the scan 2026-10-11.
 [puzzle."judge1932-04-23"]
 note = "61 Down, 'This has A beginning—finish it to suit yourself.', is A plus a letter of the solver's choosing. The printed answer key fills its second square (r14c8) with six small letters, TNL over DMS: the letters that can finish it (AT, AN, AL, AD, AM, AS). Transcribed as printed, as a rebus square; any one of those letters is a right answer."
+
+# Checked against the scan 2026-10-11.
+[puzzle."judge1928-09-01"]
+note = "The printed grid gives a number (28) to a square that starts no entry, so from there on the printed clue numbers run one higher than the standard numbering used here: printed 29 Across is 28 Across here, and so on to printed 61 Across (60 Across here); printed 30 Down is 29 Down here, through printed 54 Down (53 Down here). The clues are as printed, each under its own entry. The solution grid that ran on September 8, 1928 printed 1 Down as TAHG. It has been corrected to TANG."
+
+# Checked against the scan 2026-10-11.
+[puzzle."judge1929-03-02"]
+note = "The printed grid gives a number (25) to a square that starts no entry (row 5, column 1), so the next printed numbers run one higher than the standard numbering used here until they meet again at 29: printed 26 Across is 25 Across here (OVEN) and printed 27 Down is 26 Down (ETS). The clues are as printed, each under its own entry. The solution grid that ran on March 9, 1929 printed 36 Across as DIVORSE and 26 Down as ETS. They have been corrected to DIVORCE and ETC."
