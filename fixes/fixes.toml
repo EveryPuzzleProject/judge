@@ -203,3 +203,7 @@ note = "The printed Across list has a clue 60, 'The human thing to do.', but the
 
 [puzzle."judge1934-06-01c"]
 skip = "The same printed page as judge1934-06-01 (page 30, No. 310), scanned twice in the archive.org item: leaf 31 is a copy filled in by a reader, leaf 33 a clean copy."
+
+# Checked against the scan 2026-10-11.
+[puzzle."judge1932-04-23"]
+note = "61 Down, 'This has A beginning—finish it to suit yourself.', is A plus a letter of the solver's choosing. The printed answer key fills its second square (r14c8) with six small letters, TNL over DMS: the letters that can finish it (AT, AN, AL, AD, AM, AS). Transcribed as printed, as a rebus square; any one of those letters is a right answer."
