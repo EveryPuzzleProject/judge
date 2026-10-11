@@ -288,3 +288,252 @@ solution = [
   "TIER#LEVEE#PAIR",
   "#DENSER#DREAMS#",
 ]
+
+# Pages where missing answer keys are (archive.org text 'Solution of Puzzle No. N'),
+# or the pages either side of the next issue's puzzle; added 2026-10-11 from the gap index.
+[issue."sim_judge_1925-02-28_88"]
+extra_pages = [33, 35]
+
+[issue."sim_judge_1927-01-29_92"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1927-05-07_92"]
+extra_pages = [15, 17]
+
+[issue."sim_judge_1927-05-21_92"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1927-07-23_93"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1927-10-22_93"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1927-11-05_93"]
+extra_pages = [32, 34]
+
+[issue."sim_judge_1928-02-04_94"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1928-03-31_94"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1928-04-21_94"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1928-06-09_94"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1928-06-30_94"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1928-08-11_95"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1929-02-09_96"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1930-02-08_98"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1931-04-11_100"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1932-06-11_102"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1932-06-18_102"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1932-09_103"]
+extra_pages = [24]
+
+[issue."sim_judge_1932-10_103"]
+extra_pages = [31]
+
+[issue."sim_judge_1933-02_104"]
+extra_pages = [32]
+
+[issue."sim_judge_1933-04_104"]
+extra_pages = [26, 32]
+
+[issue."sim_judge_1933-05_104"]
+extra_pages = [33]
+
+[issue."sim_judge_1933-06_104"]
+extra_pages = [33, 35]
+
+[issue."sim_judge_1933-07_105"]
+extra_pages = [30]
+
+[issue."sim_judge_1933-08_105"]
+extra_pages = [30, 32, 33]
+
+[issue."sim_judge_1933-09_105"]
+extra_pages = [31]
+
+[issue."sim_judge_1933-10_105"]
+extra_pages = [26, 34]
+
+[issue."sim_judge_1933-12_105"]
+extra_pages = [26]
+
+[issue."sim_judge_1934-03_106"]
+extra_pages = [27]
+
+[issue."sim_judge_1934-05_106"]
+extra_pages = [28]
+
+[issue."sim_judge_1934-06_106"]
+extra_pages = [25]
+
+[issue."sim_judge_1934-08_107"]
+extra_pages = [33]
+
+[issue."sim_judge_1934-09_107"]
+extra_pages = [27]
+
+[issue."sim_judge_1934-11_107"]
+extra_pages = [28, 31, 33]
+
+[issue."sim_judge_1934-12_107"]
+extra_pages = [28]
+
+[issue."sim_judge_1935-01_108"]
+extra_pages = [34, 36, 37]
+
+[issue."sim_judge_1935-04_108"]
+extra_pages = [31]
+
+[issue."sim_judge_1935-05_108"]
+extra_pages = [25]
+
+[issue."sim_judge_1935-07_109"]
+extra_pages = [26]
+
+[issue."sim_judge_1935-08_109"]
+extra_pages = [30]
+
+[issue."sim_judge_1935-09_109"]
+extra_pages = [24]
+
+[issue."sim_judge_1935-11_109"]
+extra_pages = [30, 32]
+
+[issue."sim_judge_1936-01_110"]
+extra_pages = [24]
+
+[issue."sim_judge_1936-03_110"]
+extra_pages = [31, 32, 34]
+
+[issue."sim_judge_1936-08_111"]
+extra_pages = [31]
+
+[issue."sim_judge_1936-09_111"]
+extra_pages = [32]
+
+[issue."sim_judge_1936-11_111"]
+extra_pages = [32, 34]
+
+[issue."sim_judge_1937-02_112"]
+extra_pages = [39]
+
+[issue."sim_judge_1937-03_112"]
+extra_pages = [28, 29, 31]
+
+[issue."sim_judge_1937-06_112"]
+extra_pages = [28, 31, 32]
+
+[issue."sim_judge_1937-07_113"]
+extra_pages = [28, 31, 32]
+
+[issue."sim_judge_1937-09_113"]
+extra_pages = [28, 31, 32]
+
+[issue."sim_judge_1937-10_113"]
+extra_pages = [28, 30, 31, 32]
+
+[issue."sim_judge_1938-01_114"]
+extra_pages = [82, 85]
+
+[issue."sim_judge_1938-05_114"]
+extra_pages = [48]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1931-04-04"]
+note = "The answer key ran in the April 11, 1931 issue (page 31, 'Solution of Last Week's Puzzle'). The harvest found only 12 of its 15 columns and didn't match it; the key here is read from the scan."
+solution = [
+  "CROSS#ARK#COMB#",
+  "A#FAT#FAIL#REEF",
+  "RM#BUST#MINERAL",
+  "DIRECT#HONE#CRY",
+  "STORK#PINT#TU##",
+  "#ESS#DAGO#CARAT",
+  "F#E#PITH#JOBYNA",
+  "UP#HIGHBROWS#YR",
+  "RESINS#AUKS#F#T",
+  "SPENT#FLEE#MID#",
+  "##AD#HOLD#CIDER",
+  "SAP#BOSS#PAROLE",
+  "AMOROUS#IOTA#LB",
+  "DORY#RINK#EGG#E",
+  "#STEM#LYE#REOIL",
+]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1937-12-01"]
+note = "The answer key ran in the January 1938 issue (pages 83-84). The harvest found it in three pieces and didn't match it; the key here is read from the scan."
+solution = [
+  "BARTENDERS##SOU",
+  "URGE#ORGAN#WORM",
+  "LI#EASE#COAT#GB",
+  "KAT#MEADOWS#OYR",
+  "##ART#MOO#PBI#E",
+  "#ACE#TEENS#AVEL",
+  "PITCHER#SCANDAL",
+  "ED#ISR###RNA#RA",
+  "DENTIST#PEANUTS",
+  "EDGE#ELBOW#ASH#",
+  "S#NSO#AIL#USE##",
+  "TUG#DIGRESS#SAG",
+  "AN#REI#DCODE#BE",
+  "LINE#TRIAL#RELA",
+  "STY##TEETOTALER",
+]
+
+# 'Solutions of Puzzles in this Issue' (same issue, unnumbered), Mar-Nov 1937.
+[issue."sim_judge_1937-04_112"]
+extra_pages = [31, 32]
+
+# 'Solutions of Puzzles in this Issue' (same issue, unnumbered), Mar-Nov 1937.
+[issue."sim_judge_1937-05_112"]
+extra_pages = [32, 33]
+
+# 'Solutions of Puzzles in this Issue' (same issue, unnumbered), Mar-Nov 1937.
+[issue."sim_judge_1937-08_113"]
+extra_pages = [31, 32]
+
+# 'Solutions of Puzzles in this Issue' (same issue, unnumbered), Mar-Nov 1937.
+[issue."sim_judge_1937-11_113"]
+extra_pages = [31, 32]
+
+# A puzzle the harvest missed: its title is in archive.org's text on this page (gap index, 2026-10-11).
+[issue."sim_judge_1930-08-30_99"]
+extra_pages = [31]
+
+# A puzzle the harvest missed: its title is in archive.org's text on this page (gap index, 2026-10-11).
+[issue."sim_judge_1932-07_103"]
+extra_pages = [32]
+
+# A puzzle the harvest missed: its title is in archive.org's text on this page (gap index, 2026-10-11).
+[issue."sim_judge_1935-02_108"]
+extra_pages = [33]
+
+# A puzzle the harvest missed: its title is in archive.org's text on this page (gap index, 2026-10-11).
+[issue."sim_judge_1935-12_109"]
+extra_pages = [36]
+
+# Checked against the scans by the user, 2026-10-11.
+[puzzle."judge1930-05-17"]
+puzzle_number = "156"
+note = "Printed as No. 155, a misprint: No. 155 ran the week before (May 10), and this is No. 156 by the series and by the solutions, which ran as printed puzzles' solutions in the following issues (the user checked the scans)."
