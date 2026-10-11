@@ -78,7 +78,7 @@ D14. You might as well do this as think. ~ DEEM
 D15. Water Glass. ~ WG
 D21. You can lead a Charlie horse to this (pl.). ~ LINIMENTS
 D24. A pod hopper. ~ PEA
-D25. Biack and blue and read all over. ~ INK
+D25. Black and blue and read all over. ~ INK
 D26. Dumb Dora. ~ DD
 D27. The main support of subway riders. ~ STRAP
 D29. Popular bills. ~ ONES
@@ -110,7 +110,9 @@ D69. Automobile Association. ~ AA
 
 
 OCR review flags:
-D25: spell-hint:Biack>Black
+A7: number-missing
+D25: spell:Biack>Black
+D36: number-corrected:37
 D37: fixed
 D46: fixed
 D47: fixed

@@ -104,7 +104,14 @@ D62. "All's well with the world." ~ OK
 OCR review flags:
 A60: fixed
 A61: fixed
+D1: number-missing
 D2: fixed
+D3: number-missing
+D4: number-missing
+D5: number-missing
+D6: number-missing
+D7: number-missing
+D8: number-missing
 D24: low-ocr-score
 D26: fixed
 D41: fixed

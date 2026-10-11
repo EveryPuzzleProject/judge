@@ -292,7 +292,7 @@ solution = [
 # Pages where missing answer keys are (archive.org text 'Solution of Puzzle No. N'),
 # or the pages either side of the next issue's puzzle; added 2026-10-11 from the gap index.
 [issue."sim_judge_1925-02-28_88"]
-extra_pages = [33, 35]
+extra_pages = [8, 19, 29, 33, 35]
 
 [issue."sim_judge_1927-01-29_92"]
 extra_pages = [30, 32]
@@ -310,31 +310,31 @@ extra_pages = [30, 32]
 extra_pages = [30, 32]
 
 [issue."sim_judge_1927-11-05_93"]
-extra_pages = [32, 34]
+extra_pages = [28, 32, 34]
 
 [issue."sim_judge_1928-02-04_94"]
 extra_pages = [30, 32]
 
 [issue."sim_judge_1928-03-31_94"]
-extra_pages = [30, 32]
+extra_pages = [0, 26, 27, 30, 32]
 
 [issue."sim_judge_1928-04-21_94"]
 extra_pages = [30, 32]
 
 [issue."sim_judge_1928-06-09_94"]
-extra_pages = [30, 32]
+extra_pages = [28, 30, 32]
 
 [issue."sim_judge_1928-06-30_94"]
 extra_pages = [30, 32]
 
 [issue."sim_judge_1928-08-11_95"]
-extra_pages = [30, 32]
+extra_pages = [26, 27, 30, 32]
 
 [issue."sim_judge_1929-02-09_96"]
 extra_pages = [30, 32]
 
 [issue."sim_judge_1930-02-08_98"]
-extra_pages = [30, 32]
+extra_pages = [1, 16, 17, 30, 32]
 
 [issue."sim_judge_1931-04-11_100"]
 extra_pages = [30, 32]
@@ -346,10 +346,10 @@ extra_pages = [30, 32]
 extra_pages = [30, 32]
 
 [issue."sim_judge_1932-09_103"]
-extra_pages = [24]
+extra_pages = [15, 22, 24, 27, 28]
 
 [issue."sim_judge_1932-10_103"]
-extra_pages = [31]
+extra_pages = [19, 23, 26, 29, 30, 31]
 
 [issue."sim_judge_1933-02_104"]
 extra_pages = [32]
@@ -370,10 +370,10 @@ extra_pages = [30]
 extra_pages = [30, 32, 33]
 
 [issue."sim_judge_1933-09_105"]
-extra_pages = [31]
+extra_pages = [19, 23, 25, 28, 29, 30, 31]
 
 [issue."sim_judge_1933-10_105"]
-extra_pages = [26, 34]
+extra_pages = [23, 26, 29, 34]
 
 [issue."sim_judge_1933-12_105"]
 extra_pages = [26]
@@ -403,28 +403,28 @@ extra_pages = [28]
 extra_pages = [34, 36, 37]
 
 [issue."sim_judge_1935-04_108"]
-extra_pages = [31]
+extra_pages = [7, 27, 31]
 
 [issue."sim_judge_1935-05_108"]
-extra_pages = [25]
+extra_pages = [25, 28]
 
 [issue."sim_judge_1935-07_109"]
-extra_pages = [26]
+extra_pages = [23, 26, 28, 29]
 
 [issue."sim_judge_1935-08_109"]
-extra_pages = [30]
+extra_pages = [21, 30]
 
 [issue."sim_judge_1935-09_109"]
 extra_pages = [24]
 
 [issue."sim_judge_1935-11_109"]
-extra_pages = [30, 32]
+extra_pages = [27, 28, 30, 32]
 
 [issue."sim_judge_1936-01_110"]
-extra_pages = [24]
+extra_pages = [21, 24]
 
 [issue."sim_judge_1936-03_110"]
-extra_pages = [31, 32, 34]
+extra_pages = [25, 31, 32, 34]
 
 [issue."sim_judge_1936-08_111"]
 extra_pages = [31]
@@ -433,25 +433,25 @@ extra_pages = [31]
 extra_pages = [32]
 
 [issue."sim_judge_1936-11_111"]
-extra_pages = [32, 34]
+extra_pages = [21, 27, 32, 34]
 
 [issue."sim_judge_1937-02_112"]
-extra_pages = [39]
+extra_pages = [7, 8, 34, 35, 39]
 
 [issue."sim_judge_1937-03_112"]
-extra_pages = [28, 29, 31]
+extra_pages = [2, 15, 21, 28, 29, 31]
 
 [issue."sim_judge_1937-06_112"]
-extra_pages = [28, 31, 32]
+extra_pages = [2, 13, 24, 28, 31, 32]
 
 [issue."sim_judge_1937-07_113"]
-extra_pages = [28, 31, 32]
+extra_pages = [2, 13, 15, 28, 31, 32]
 
 [issue."sim_judge_1937-09_113"]
-extra_pages = [28, 31, 32]
+extra_pages = [2, 11, 23, 28, 31, 32, 34]
 
 [issue."sim_judge_1937-10_113"]
-extra_pages = [28, 30, 31, 32]
+extra_pages = [5, 28, 30, 31, 32, 34]
 
 [issue."sim_judge_1938-01_114"]
 extra_pages = [82, 85]
@@ -503,15 +503,15 @@ solution = [
 
 # 'Solutions of Puzzles in this Issue' (same issue, unnumbered), Mar-Nov 1937.
 [issue."sim_judge_1937-04_112"]
-extra_pages = [31, 32]
+extra_pages = [2, 12, 30, 31, 32]
 
 # 'Solutions of Puzzles in this Issue' (same issue, unnumbered), Mar-Nov 1937.
 [issue."sim_judge_1937-05_112"]
-extra_pages = [32, 33]
+extra_pages = [1, 10, 32, 33]
 
 # 'Solutions of Puzzles in this Issue' (same issue, unnumbered), Mar-Nov 1937.
 [issue."sim_judge_1937-08_113"]
-extra_pages = [31, 32]
+extra_pages = [22, 31, 32, 33, 34]
 
 # 'Solutions of Puzzles in this Issue' (same issue, unnumbered), Mar-Nov 1937.
 [issue."sim_judge_1937-11_113"]
@@ -523,17 +523,207 @@ extra_pages = [31]
 
 # A puzzle the harvest missed: its title is in archive.org's text on this page (gap index, 2026-10-11).
 [issue."sim_judge_1932-07_103"]
-extra_pages = [32]
+extra_pages = [2, 15, 22, 27, 32]
 
 # A puzzle the harvest missed: its title is in archive.org's text on this page (gap index, 2026-10-11).
 [issue."sim_judge_1935-02_108"]
-extra_pages = [33]
+extra_pages = [15, 29, 31, 33]
 
 # A puzzle the harvest missed: its title is in archive.org's text on this page (gap index, 2026-10-11).
 [issue."sim_judge_1935-12_109"]
-extra_pages = [36]
+extra_pages = [36, 39]
 
 # Checked against the scans by the user, 2026-10-11.
 [puzzle."judge1930-05-17"]
 puzzle_number = "156"
 note = "Printed as No. 155, a misprint: No. 155 ran the week before (May 10), and this is No. 156 by the series and by the solutions, which ran as printed puzzles' solutions in the following issues (the user checked the scans)."
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1925-02-21_88"]
+extra_pages = [7, 21]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1925-03-07_88"]
+extra_pages = [2, 8, 10, 14, 20, 22, 23, 31]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1925-03-14_88"]
+extra_pages = [3, 8, 26, 31]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1927-05-14_92"]
+extra_pages = [22]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1927-05-28_92"]
+extra_pages = [33]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1927-06-04_92"]
+extra_pages = [26, 27]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1927-06-11_92"]
+extra_pages = [29]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1927-10-15_93"]
+extra_pages = [17]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1928-02-18_94"]
+extra_pages = [4, 6, 28]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1928-02-25_94"]
+extra_pages = [24]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1928-03-03_94"]
+extra_pages = [24, 25]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1928-04-07_94"]
+extra_pages = [24, 25]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1928-04-14_94"]
+extra_pages = [19, 26, 27]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1928-06-02_94"]
+extra_pages = [22, 23]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1928-06-16_94"]
+extra_pages = [24, 25, 34]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1928-08-04_95"]
+extra_pages = [24, 25]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1928-08-18_95"]
+extra_pages = [28, 29]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1930-02-15_98"]
+extra_pages = [8, 27]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1930-07-26_99"]
+extra_pages = [14]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1930-08-02_99"]
+extra_pages = [11]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1930-08-09_99"]
+extra_pages = [24, 30]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1932-06-25_102"]
+extra_pages = [24]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1932-08_103"]
+extra_pages = [3, 15, 21, 29, 30]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1933-11_105"]
+extra_pages = [19, 23, 29]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1934-10_107"]
+extra_pages = [27]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1935-03_108"]
+extra_pages = [7, 25, 29]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1935-06_108"]
+extra_pages = [23, 31]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1935-10_109"]
+extra_pages = [13, 23]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1936-02_110"]
+extra_pages = [19, 21]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1936-04_110"]
+extra_pages = [25]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1936-12_111"]
+extra_pages = [4, 37, 38, 39, 41, 43, 45, 49, 51]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1937-01_112"]
+extra_pages = [27, 43]
+
+# Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
+[issue."sim_judge_1939-01_116"]
+extra_pages = [6]
+
+# Checked against the scans by the user, 2026-10-11.
+[puzzle."judge1939-01-01"]
+note = "No solution found. This is the last Judge issue we have (January 1939), and it printed the solutions to the December 1938 puzzles; this puzzle's solution would have run in a later issue."
+
+[puzzle."judge1939-01-01b"]
+note = "No solution found. This is the last Judge issue we have (January 1939), and it printed the solutions to the December 1938 puzzles; this puzzle's solution would have run in a later issue."
+
+# Checked against the scans by the user, 2026-10-11.
+[puzzle."judge1925-10-17b"]
+skip = "The same printed page as judge1925-10-10 (No. 44, with No. 43's solution below it), bound into the 1925-10-17 archive.org item as leaf 40: a copy filled in by a reader in pencil."
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1933-09-01b"]
+note = "The answer key ran in the October 1933 issue, page 22 ('Solution of Puzzle No. 294', https://archive.org/details/sim_judge_1933-10_105/page/n25/mode/1up), at the page's outer edge. The harvest didn't match it; the key here is read from the scan."
+solution = [
+  "####CHAPERONE##",
+  "###BOAS#NOMAD##",
+  "##VATS#SCAMP#BB",
+  "#LORE#SCORE#MAL",
+  "HICK#WEARS#RUSE",
+  "APA#PRATE#SECTS",
+  "RSL#IOT#DITCHES",
+  "D##USN###DAD##I",
+  "SAUSAGE#COY#TON",
+  "HOSES#COOLS#HUG",
+  "IRED#CLAPS#KISS",
+  "PTS#DAIRY#DIET#",
+  "SA#HARPS#HALF##",
+  "##IAGOS#TALL###",
+  "##WHOLESOME####",
+]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1933-09-01"]
+note = "The answer key ran in the October 1933 issue, page 23 ('Solution of Puzzle No. 295', https://archive.org/details/sim_judge_1933-10_105/page/n26/mode/1up), at the page's inner edge. The harvest didn't match it; the key here is read from the scan."
+solution = [
+  "###WHIRLPOOL###",
+  "#SCHEME#AVAILS#",
+  "#PRIMP#PRETZEL#",
+  "COATS#BEANS#NAP",
+  "OOZE#FORDS##IVE",
+  "UKE#PROSE#SLEEP",
+  "RY#PIANO#OPENS#",
+  "T#CONTENTMENT#M",
+  "SCOUTS#ARENA#SA",
+  "HARTS#ELAND#MUD",
+  "INNS#SNIPS#BILL",
+  "POI##MATS#DUSTY",
+  "#ECONOMY#BITER#",
+  "#SENATE#PANTRY#",
+  "###EYELASHES###",
+]
+
+# Checked against the scans by the user, 2026-10-11.
+[puzzle."judge1936-12-01b"]
+puzzle_number = "371"
+note = "Printed without a number, as 'Dirty Work at the Crosswords'. Numbered 371 here by inference (the user, from the scans): the series runs from No. 370, earlier in this issue, to No. 372 in January 1937, and January 1937 printed this puzzle's solution beside No. 370's. The grid has circled squares, and the printed note under it reads: 'Each letter placed in the circles is a clue. The solution has three words of 3, 7, and 8 letters respectively. If you arrange your clues in the proper order, you will discover the culprit's identity.' The circles aren't marked in this transcription yet."

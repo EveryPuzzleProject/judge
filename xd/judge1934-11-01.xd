@@ -130,6 +130,8 @@ D81. We are generally prone to do this. ~ LIE
 
 
 OCR review flags:
+A5: number-missing
 D1: fixed
+D7: number-missing
 D67: fixed
 D81: fixed

@@ -114,12 +114,16 @@ D70. Don't hide your light under this abbreviation. ~ BU
 
 
 OCR review flags:
+A25: number-missing
 A65: fixed
 A66: fixed
 A72: fixed
 D1: number-missing
 D2: number-missing
 D3: number-missing
+D6: number-missing
+D7: number-missing
+D8: number-missing
 D10: fixed
 D61: fixed
 D70: fixed

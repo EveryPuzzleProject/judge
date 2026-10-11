@@ -144,8 +144,11 @@ Warnings:
 Note: The answer key ran in the October 1934 issue (page 31, 'Solution of Puzzle No. 316'). The harvest found it in two pieces and didn't match it; the two are joined here, with the four squares the OCR misread or couldn't read (BOAS, SAD, WAS, RIG) read from the scan.
 
 OCR review flags:
+A52: number-missing
+A57: number-missing
 A62: fixed
 A86: fixed
 A94: fixed
+D9: number-corrected:10
 D10: fixed
 D56: fixed

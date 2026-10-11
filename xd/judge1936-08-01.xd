@@ -119,6 +119,7 @@ Grid isn't symmetric: 3 square pair(s) differ (r1c11/r15c5, r1c13/r15c3, r7c13/r
 OCR review flags:
 A45: fixed
 A52: number-corrected:62
+A62: number-missing
 A66: number-missing
 D26: fixed
 D64: fixed
