@@ -825,3 +825,195 @@ D80 = "Beg your pardon, but there was some damage here."
 D83 = "This was all we could get from a Norsk."
 D86 = "Ma's greatest worry."
 D87 = "Don't be discouraged—this always comes in late."
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1935-02-01"]
+note = "The answer key ran in the March 1935 issue, under No. 328 (https://archive.org/details/sim_judge_1935-03_108/page/n36/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+solution = [
+  "###LISTERINE###",
+  "##LADLE#IVIED##",
+  "#REPEAT#DONNED#",
+  "BAG#AD###RE#AIM",
+  "ADAM#EARLY#PLEA",
+  "TILES#BYE#TASTY",
+  "HO#NETS#APIS#SO",
+  "####GAI#TON####",
+  "BARGAIN#HIGHBOY",
+  "OTHER#TOE#EERIE",
+  "WHIM#SHORE#MALL",
+  "SON#DI###XD#CEL",
+  "#SAHARA#STEWED#",
+  "##LINER#OREAD##",
+  "###SANCTUARY###",
+]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1935-06-01"]
+note = "The answer key ran in the July 1935 issue (https://archive.org/details/sim_judge_1935-07_109/page/n26/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+solution = [
+  "INCA#DAM#HATE##",
+  "ROAR#AMI#ASIDE#",
+  "INTENDED#DESIRE",
+  "SEA#EAR#PEA#TOW",
+  "##PAW#ICES#LODE",
+  "SOUR#SCAT#FIRES",
+  "PALATIAL#CAP###",
+  "ART#INN#CAR#ION",
+  "###PEG#COMMENCE",
+  "RIDES#SOUP#ETTE",
+  "ANEW#MOOR#ERR##",
+  "PEP#ROW#TAG#IVE",
+  "TROJAN#BELONGED",
+  "#TRACE#USE#AURA",
+  "##TREY#DYE#BEAM",
+]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1935-12-01"]
+note = "The answer key ran in the January 1936 issue (https://archive.org/details/sim_judge_1936-01_110/page/n24/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+solution = [
+  "##SAFES#FRATS##",
+  "#FARINA#LILACS#",
+  "CAPITOL#ITERATE",
+  "ASHES#AGREE#MER",
+  "UTES#TROTS#SPAN",
+  "SEA#RAINS#POEMS",
+  "ENDEARED#SOURS#",
+  "###CONSOMMES###",
+  "#SOLUS#LOITERER",
+  "FATAL#FISTS#EVE",
+  "LITT#FRESH#SPED",
+  "OLO#BLURB#FIERY",
+  "POMPEII#ANIMATE",
+  "#RERENT#CAROLS#",
+  "##NERTS#KEENS##",
+]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1936-01-01b"]
+note = "The answer key ran in the February 1936 issue, under No. 351 (https://archive.org/details/sim_judge_1936-02_110/page/n33/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+solution = [
+  "BACHELOR#DETOUR",
+  "ACHE#ALAR#WORRY",
+  "TRIM#PIRATE#AGO",
+  "HID###VETO#BLET",
+  "EDE#CUE##PIE###",
+  "###CAP#SHIN#MOW",
+  "PLEAD#CLOCK#ERA",
+  "EAST#FEUDS#ANTS",
+  "SIP#GERMS#BLUSH",
+  "TRY#ULES#NIL###",
+  "###AMI##AID#PAS",
+  "JAMS#NOON###INK",
+  "ORE#HEAVEN#LAVA",
+  "LEASE#FATE#GNIT",
+  "TALONS#LOOPHOLE",
+]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1936-02-01"]
+note = "The answer key ran in the March 1936 issue, under No. 352 (https://archive.org/details/sim_judge_1936-03_110/page/n31/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+solution = [
+  "ORGAN#HAY#DARED",
+  "PORCUPINE#EBONY",
+  "EMIT#IRON#PRUDE",
+  "NET#GLEN#FLUE##",
+  "SO#MOOD#CROP#AS",
+  "##PANT#SHORTEST",
+  "PRONG#ATONE#LIE",
+  "AIRY#QUEST#JADE",
+  "LAC#PUREE#MINER",
+  "ETHEREAL#FEND##",
+  "RA#REEL#COAX#AN",
+  "##AMEN#THIN#DUE",
+  "GAMIN#ORAL#PAGE",
+  "ALINE#PERSISTED",
+  "BIDED#SET#FIERY",
+]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1936-02-01b"]
+note = "The answer key ran in the March 1936 issue, under No. 353 (https://archive.org/details/sim_judge_1936-03_110/page/n33/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+solution = [
+  "MOUNT#MANICURED",
+  "A#SOOT#BANANA#A",
+  "RT#TAR#EVERT#BU",
+  "IAN#SUP#ERO#RAN",
+  "GRUNTERS#TUMULT",
+  "OGRES#AUS#SAGE#",
+  "LEST#ENTERED##T",
+  "DTE#SECURED#MAR",
+  "S##PALERMO#LAVA",
+  "#TRIG#DEO#PATEN",
+  "BROGAN#SNOOPERS",
+  "LID#MIS#SAT#STP",
+  "UP#NOSES#TEE#SI",
+  "R#MURALS#SNAP#R",
+  "BARTENDER#TRACE",
+]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1928-06-02"]
+note = "The answer key ran in the issue of June 9, 1928, on No. 55's page ('Solution of Last Week's Puzzle') (https://archive.org/details/sim_judge_1928-06-09_94/page/n31/mode/1up; found by the user). The harvest didn't find it; the key here is read from the scan."
+solution = [
+  "MOLE#FETES#SCAB",
+  "EWE#TUXEDOS#USE",
+  "SLAB#STAID#TEST",
+  "S#FLIER#CAKES#S",
+  "#T#E#SALTS#P#W#",
+  "BRASS##A##FILES",
+  "LAPSE#ASK#IDEAL",
+  "IMP#AUCTION#ARE",
+  "SPLIT#TIN#DOSED",
+  "SEEDS##N##SUERS",
+  "#R#E#PAGAN#T#S#",
+  "U#SALAD#NAMES#L",
+  "TOTS#PACKS#RATE",
+  "AWE#REGULAR#LEA",
+  "HEMS#REBEL#PEEP",
+]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1928-08-04"]
+note = "The answer key ran in the issue of August 11, 1928, the page after No. 64 ('Solution of Last Week's Puzzle') (https://archive.org/details/sim_judge_1928-08-11_95/page/n32/mode/1up; found by the user). The harvest didn't find it; the key here is read from the scan."
+solution = [
+  "MAPLE#HASH#BEANS",
+  "USUAL#OGRE#LAPEL",
+  "MIN#E#LESS#O#TEA",
+  "MD##COD##TOT##DS",
+  "YEAST#ERIE#TRASH",
+  "####OAR##RUE####",
+  "TUTORS#BU#PRONGS",
+  "IN###SORROW###IA",
+  "MICE#ENIGMA#BABY",
+  "ETHICS#ME#RHYMES",
+  "####ASP##ODE####",
+  "OTHER#EVER#ADULT",
+  "AH##PEN##INT##IE",
+  "TRI#E#CASE#H#ALE",
+  "HELOT#IRON#ECLAT",
+  "SELLS#LENT#NOTCH",
+]
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1932-08-01"]
+note = "The answer key ran in the September 1932 issue ('Solution of Puzzle No. 269') (https://archive.org/details/sim_judge_1932-09_103/page/n24/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+solution = [
+  "SUN#PLAY#RACK#SPA",
+  "ERE#IOTA#EARN#KEL",
+  "ANTICS#PEP#AERIAL",
+  "###SKEW#LESSEE###",
+  "IDOL#SABBATH#STEW",
+  "DUPES#IRATE#STOLE",
+  "ETE#CASA#SANE#NSA",
+  "SYNTHETIC#MANAGER",
+  "###EER#NAP#DAD###",
+  "PYRAMID#BARITONES",
+  "LEA#EERY#PERE#ARE",
+  "OATHS#OILED#SIMON",
+  "TREE#ANDIRON#TEST",
+  "###SHREDS#TOME###",
+  "TATTOO#ITS#SUMMER",
+  "AGO#AMOS#ONES#ARA",
+  "BEE#RASH#BOYS#PAY",
+]
