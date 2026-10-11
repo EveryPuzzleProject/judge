@@ -298,7 +298,7 @@ extra_pages = [8, 19, 29, 33, 35]
 extra_pages = [30, 32]
 
 [issue."sim_judge_1927-05-07_92"]
-extra_pages = [15, 17]
+extra_pages = [15, 17, 30]
 
 [issue."sim_judge_1927-05-21_92"]
 extra_pages = [30, 32]
@@ -403,10 +403,10 @@ extra_pages = [28]
 extra_pages = [34, 36, 37]
 
 [issue."sim_judge_1935-04_108"]
-extra_pages = [7, 27, 31]
+extra_pages = [7, 27, 31, 33, 34]
 
 [issue."sim_judge_1935-05_108"]
-extra_pages = [25, 28]
+extra_pages = [25, 28, 30, 31, 32, 34, 35]
 
 [issue."sim_judge_1935-07_109"]
 extra_pages = [23, 26, 28, 29]
@@ -507,7 +507,7 @@ extra_pages = [2, 12, 30, 31, 32]
 
 # 'Solutions of Puzzles in this Issue' (same issue, unnumbered), Mar-Nov 1937.
 [issue."sim_judge_1937-05_112"]
-extra_pages = [1, 10, 32, 33]
+extra_pages = [1, 10, 29, 32, 33]
 
 # 'Solutions of Puzzles in this Issue' (same issue, unnumbered), Mar-Nov 1937.
 [issue."sim_judge_1937-08_113"]
@@ -727,3 +727,101 @@ solution = [
 [puzzle."judge1936-12-01b"]
 puzzle_number = "371"
 note = "Printed without a number, as 'Dirty Work at the Crosswords'. Numbered 371 here by inference (the user, from the scans): the series runs from No. 370, earlier in this issue, to No. 372 in January 1937, and January 1937 printed this puzzle's solution beside No. 370's. The grid has circled squares, and the printed note under it reads: 'Each letter placed in the circles is a clue. The solution has three words of 3, 7, and 8 letters respectively. If you arrange your clues in the proper order, you will discover the culprit's identity.' The circles aren't marked in this transcription yet."
+
+# Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
+[puzzle."judge1925-02-21"]
+note = "The answer key ran the next week, on No. 18's page ('Answer to Puzzle No. 17', https://archive.org/details/sim_judge_1925-02-28_88/page/n34/mode/1up; found by the user). The harvest read only a corner of it; the key here is read from the scan."
+solution = [
+  "###LOVE#SCAB###",
+  "##PORES#ARGON##",
+  "#BABBIT#MEEKER#",
+  "BIG#SLAPPED#COO",
+  "AGOG#STALL#STUD",
+  "SODAS#ERE#STAGE",
+  "STARTS#K#SPIRES",
+  "###TOIL#SOAP###",
+  "USHERS#H#TRENCH",
+  "SPARK#FAD#SNORE",
+  "ERRS#DOMES#DOER",
+  "DUE#CORSETS#SAD",
+  "#EMBALM#DIADEM#",
+  "##SANTA#ELVES##",
+  "###TEST#DEEM###",
+]
+
+# No. 171 (found by the user, 2026-10-11): its Down clues go on to the next page, so the Across list alone
+# didn't line up well enough for the grid to be kept.
+[page."sim_judge_1930-08-30_99".31]
+include = true
+
+# No. 171, found by the user 2026-10-11. The Vertical list is on the next page (leaf 32), which the
+# continuation reader didn't pick up; typed from the scan.
+[puzzle."judge1930-08-30"]
+title = "Judge's Crossword Puzzle No. 171"
+note = "The Vertical (Down) clues are printed on the next page (https://archive.org/details/sim_judge_1930-08-30_99/page/n32/mode/1up). The pipeline didn't read them across the two pages, so they were typed by hand from the scan. The answer key ran the next week ('Solution of Last Week's Puzzle', https://archive.org/details/sim_judge_1930-09-06_99/page/n32/mode/1up); the harvest read it only in pieces, so it is also read from the scan."
+solution = [
+  "PORTHOLE#STREAM",
+  "ARMHOLES#TA#LIE",
+  "SI#END#SPENT#MM",
+  "TOE#KEG#MIDAS#O",
+  "ELKS#NAG#NECTAR",
+  "SEEPS#PRE#MIAMI",
+  "###YAK#ARK#TREE",
+  "FED#MERMAID#ENS",
+  "ROAD#YAM#DIP###",
+  "ANTES#GAB#MOOSE",
+  "USEFUL#RAW#TIES",
+  "L#SEPAL#GAS#LAC",
+  "ET#RIVAL#ROD#SO",
+  "ION#NE#OPERATOR",
+  "NOOSES#BASEMENT",
+]
+
+[puzzle."judge1930-08-30".clues]
+D1 = "These are toothsome things."
+D2 = "The class colors of this are orange and black."
+D3 = "There is not much room in this part of the farm."
+D4 = "An article of the Constitution."
+D5 = "Any goose can answer this."
+D6 = "Out of date."
+D7 = "When this was at the end of the table, in the midst of silence, it started lecturing."
+D8 = "Right at the bend they found the road in this shape."
+D9 = "This seems to be the Maine song of the day."
+D10 = "Just one \"dem\" thing after another."
+D11 = "This is in a fare way to get one into a high position."
+D12 = "This was put in for a purpose."
+D13 = "Some sweet things they brought home from Scotland."
+D20 = "Call it half a day and quit."
+D21 = "Implied but not expressed."
+D24 = "This sounds as if it was going to be economical."
+D26 = "A parting word."
+D28 = "What one will do into space for that idea they are looking for."
+D30 = "A watch word."
+D32 = "Study this and find out your complex and mood, how singular and tense you are, how long your sentence will be, and when to make a dash for freedom."
+D34 = "Verily this is the way that amendment started."
+D36 = "We will tell you about this Insullater."
+D38 = "This is where you started erasing."
+D41 = "Here is your solution. (It is less than 50% whiskey.)"
+D43 = "Don't let them do this to you."
+D45 = "Maid in Germany."
+D46 = "This is the time they took to finish their luncheon (plur.)."
+D47 = "These will come in the course of time."
+D49 = "The man that finally won the suit."
+D50 = "This meaning is rather obscure."
+D53 = "What a good puzzle will do to your troubles."
+D56 = "What an innocent-looking man often gets out of a poker game."
+D58 = "Lying with a straight face upward."
+D60 = "The kind of a pipe a Scotchman likes."
+D62 = "This acts as if it had been well drilled."
+D63 = "What most fishermen like to fish in."
+D64 = "Grandmother's boy friend."
+D66 = "What Hilda does when she bane told to take a bath."
+D68 = "These are their stock in trade."
+D71 = "That high musical note that comes in last."
+D73 = "The way the farmer feels about his corn."
+D76 = "No trouble here—the definition is more than necessary."
+D78 = "A highball that was served in court."
+D80 = "Beg your pardon, but there was some damage here."
+D83 = "This was all we could get from a Norsk."
+D86 = "Ma's greatest worry."
+D87 = "Don't be discouraged—this always comes in late."
