@@ -103,9 +103,6 @@ D63. A long necker. ~ RHEA
 D66. This is small in Scotland. ~ SMA
 
 
-Warnings:
-Grid isn't symmetric: 4 square pair(s) differ (r5c9/r11c7, r6c8/r10c8, r7c11/r9c5, r8c6/r8c10). Check those black squares against the scan, or confirm the design is asymmetric.
-
 OCR review flags:
 A15: fixed
 A48: fixed

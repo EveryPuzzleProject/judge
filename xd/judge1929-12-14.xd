@@ -99,9 +99,6 @@ D53. Now you can get this smaller than you can af-ford. ~ CAR
 D55. Exists. ~ IS
 
 
-Warnings:
-Grid isn't symmetric: 12 square pair(s) differ (r3c12/r13c4, r4c5/r12c11, r4c10/r12c6, r4c11/r12c5, r4c13/r12c3, r5c4/r11c12, r5c6/r11c10, r5c10/r11c6). Check those black squares against the scan, or confirm the design is asymmetric.
-
 OCR review flags:
 A9: number-missing
 A29: fixed

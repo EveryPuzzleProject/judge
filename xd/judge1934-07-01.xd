@@ -109,9 +109,6 @@ D52. A good turn (abbr.). ~ RT
 D53. Half as good as a miss (abbr.). ~ MI
 
 
-Warnings:
-Grid isn't symmetric: 32 square pair(s) differ (r1c7/r15c9, r1c9/r15c7, r2c4/r14c12, r2c6/r14c10, r2c10/r14c6, r2c12/r14c4, r3c3/r13c13, r3c5/r13c11). Check those black squares against the scan, or confirm the design is asymmetric.
-
 OCR review flags:
 A8: fixed
 A34: fixed

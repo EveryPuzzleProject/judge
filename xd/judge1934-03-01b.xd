@@ -99,9 +99,6 @@ D51. Roads without ads. ~ RO
 D52. A little shot. ~ BB
 
 
-Warnings:
-Grid isn't symmetric: 3 square pair(s) differ (r1c1/r15c15, r7c1/r9c15, r7c15/r9c1). Check those black squares against the scan, or confirm the design is asymmetric.
-
 OCR review flags:
 A1: fixed
 A20: fixed

@@ -108,8 +108,5 @@ D62. Recent price trend. ~ UP
 D63. Flat denial. ~ NO
 
 
-Warnings:
-Grid isn't symmetric: 3 square pair(s) differ (r5c12/r11c4, r6c12/r10c4, r7c6/r9c10). Check those black squares against the scan, or confirm the design is asymmetric.
-
 OCR review flags:
 A62: fixed

@@ -109,9 +109,6 @@ D49. A well-known conjunction. ~ OR
 Misprints, kept as printed (printed → meant):
 D42: This is a lot de Bologne. → Boulogne
 
-Warnings:
-Grid isn't symmetric: 32 square pair(s) differ (r1c11/r14c4, r1c12/r14c3, r2c5/r13c10, r2c6/r13c9, r2c10/r13c5, r2c11/r13c4, r3c4/r12c11, r3c5/r12c10). Check those black squares against the scan, or confirm the design is asymmetric.
-
 OCR review flags:
 A1: fixed
 D1: fixed

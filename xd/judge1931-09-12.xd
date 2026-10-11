@@ -105,9 +105,6 @@ D61. A preface to himmel. ~ ACH
 D64. In order to make this right we had to reduce it. ~ RT
 
 
-Warnings:
-Grid isn't symmetric: 16 square pair(s) differ (r1c10/r15c6, r1c11/r15c5, r2c10/r14c6, r2c11/r14c5, r3c10/r13c6, r3c12/r13c4, r4c9/r12c7, r4c10/r12c6). Check those black squares against the scan, or confirm the design is asymmetric.
-
 OCR review flags:
 A10: fixed
 A15: fixed

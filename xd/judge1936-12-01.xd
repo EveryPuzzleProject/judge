@@ -115,9 +115,6 @@ D70. A pod without a single pea. ~ OD
 D71. A good place for you and I to get together. ~ UI
 
 
-Warnings:
-Grid isn't symmetric: 20 square pair(s) differ (r1c10/r15c6, r1c11/r15c5, r2c3/r14c13, r2c5/r14c11, r2c10/r14c6, r2c11/r14c5, r3c3/r13c13, r3c5/r13c11). Check those black squares against the scan, or confirm the design is asymmetric.
-
 OCR review flags:
 A70: fixed
 A72: fixed
