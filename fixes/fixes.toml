@@ -1047,3 +1047,15 @@ provenance = "r3c5 is a white square: the printed grid numbers r2c5 13 (POOR, In
 # No. 273's answer key, found by the user 2026-10-12: printed page 27 of the November 1932 issue, several pages before its crosswords.
 [issue."sim_judge_1932-11_103"]
 extra_pages = [28]
+
+[puzzle."judge1926-12-25"]
+note = "The answer key for this puzzle, printed in the January 1, 1927 issue, gave 41 Across as PEFAN (and so 34 Down as EEP), presumably in error. It has been corrected to REFAN and EER."
+
+[puzzle."judge1927-03-19"]
+note = "The answer key for this puzzle, printed in the March 26, 1927 issue, gave 60 Across as DANDORA (and so 60 Down as DORK), presumably in error. It has been corrected to PANDORA and PORK."
+
+[puzzle."judge1929-02-09"]
+note = "The answer key for this puzzle, printed in the February 16, 1929 issue, gave 31 Across as IOWO (and so 20 Down as TOGO), presumably in error. It has been corrected to IOWA and TOGA."
+
+[puzzle."judge1938-06-01"]
+note = "The answer key for this puzzle, printed in the July 1938 issue, gave 25 Across as HELLO (and so 23 Down as CLO); 36 Across as TL (and so 37 Down as LET), presumably in error. It has been corrected to HELIO and CIO; TR and RET."

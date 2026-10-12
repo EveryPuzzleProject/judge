@@ -13,7 +13,7 @@ Solution-Source: https://archive.org/details/sim_judge_1929-02-16_96/page/n31/mo
 NY#LUCK#TOAD#MAD
 I#TARO#BOBS#SORE
 GROUNDHOGS#THUMB
-HAND#IOWO#ARES#U
+HAND#IOWA#ARES#U
 TRY#ALPS#SPUD#PT
 ME#PIES#HOPE#TEA
 A#CARS#HAUL#TORN
@@ -42,7 +42,7 @@ A25. The way some football players feel after a game. ~ SORE
 A26. Little prophets that come about Feb. 2nd. ~ GROUNDHOGS
 A29. You wouldn't want to use this in a pinch. ~ THUMB
 A30. This is what Herbert Hoover offered to the people of South America. ~ HAND
-A31. The corn state. ~ IOWO
+A31. The corn state. ~ IOWA
 A32. A Greek god. ~ ARES
 A33. Attempt. ~ TRY
 A34. These are often scaled. ~ ALPS
@@ -88,7 +88,7 @@ D16. What cigarettes will do for the younger generation. ~ BURN
 D17. What Al Jolson's jokes have become. ~ SOBS
 D18. These are coaxed along by midnight lunches. ~ NIGHTMARES
 D19. To praise. ~ LAUD
-D20. This is what the Romans used to put over. ~ TOGO
+D20. This is what the Romans used to put over. ~ TOGA
 D22. These buds are just coming out. ~ DEBUTANTES
 D23. This is what Cleopatra might have called Antony. ~ TONY
 D24. These are always getting tied up. ~ BOWS
@@ -122,6 +122,9 @@ D61. Exists. ~ IS
 
 Misprints, kept as printed (printed → meant):
 A31: The corn state. → IOWA
+
+Warnings:
+Note: The answer key for this puzzle, printed in the February 16, 1929 issue, gave 31 Across as IOWO (and so 20 Down as TOGO), presumably in error. It has been corrected to IOWA and TOGA.
 
 OCR review flags:
 D18: spell:funches>lunches

@@ -103,7 +103,7 @@ judge1926-11-27	1926-11-27	101	done	restored		y	2026-10-01
 judge1926-12-04	1926-12-04	102	done	restored		y	2026-10-01
 judge1926-12-11	1926-12-11	103	done	restored		y	2026-10-12
 judge1926-12-18	1926-12-18	104	done	restored		y	2026-10-01
-judge1926-12-25	1926-12-25	105	done	restored		y	2026-10-01
+judge1926-12-25	1926-12-25	105	done	restored		y	2026-10-12
 judge1927-01-01	1927-01-01	106	done	restored		y	2026-10-12
 judge1927-01-08	1927-01-08	107	done	restored		y	2026-10-12
 judge1927-01-15	1927-01-15	108	done	restored		y	2026-10-01
@@ -206,7 +206,7 @@ judge1929-01-12	1929-01-12	86	done	restored			2026-10-02
 judge1929-01-19	1929-01-19	87	done	restored			2026-10-02
 judge1929-01-26	1929-01-26	88	done	restored		y	2026-10-12
 judge1929-02-02	1929-02-02	89	done	restored		y	2026-10-11
-judge1929-02-09	1929-02-09	90	done	restored			2026-10-02
+judge1929-02-09	1929-02-09	90	done	restored			2026-10-12
 judge1929-02-16	1929-02-16	91	done	restored			2026-10-02
 judge1929-02-23	1929-02-23	92	done	restored			2026-10-02
 judge1929-03-02	1929-03-02	93	done	restored		y	2026-10-11
@@ -519,7 +519,7 @@ judge1938-03-01b	1938-03-01	401	later	restored			2026-10-08
 judge1938-04-01	1938-04-01	402	later	restored			2026-10-08
 judge1938-04-01b	1938-04-01	403	later	restored		y	2026-10-12
 judge1938-05-01	1938-05-01	404	later	restored			2026-10-08
-judge1938-06-01	1938-06-01	405	later	restored			2026-10-08
+judge1938-06-01	1938-06-01	405	later	restored			2026-10-12
 judge1938-07-01	1938-07-01	406	later	restored			2026-10-08
 judge1938-07-01b	1938-07-01	407	later	restored			2026-10-08
 judge1938-08-01	1938-08-01	408	later	restored			2026-10-08

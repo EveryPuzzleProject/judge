@@ -18,7 +18,7 @@ LASSIES#SILESIA
 SHELTER#AWNINGS
 T#KEY#EAR#GAE#M
 USED#JUDGE#NAME
-TAD#DANDORA#TIA
+TAD#PANDORA#TIA
 TN#BORI#NERO#AR
 ETHER#OWN#CHIME
 RAMEKIN#EHIMOID
@@ -55,7 +55,7 @@ A53. On the level this kind of car is good. ~ USED
 A55. You'll get a laugh out of this. ~ JUDGE
 A57. A designation. ~ NAME
 A59. Well-known cartoonist. ~ TAD
-A60. The first woman—according to Greek mythology. ~ DANDORA
+A60. The first woman—according to Greek mythology. ~ PANDORA
 A62. The front part of the name of a famous race track. ~ TIA
 A63. Tintillating Nincompoops (init.). ~ TN
 A64. Famous opera singer. ~ BORI
@@ -103,7 +103,7 @@ D54. This fellow goes the rounds every Christmas. ~ SANTA
 D55. What Hiram keeps his cider in. ~ JAR
 D56. Before. ~ ERE
 D58. Millionaires' playground. ~ MIAMI
-D60. This is on the hog. ~ DORK
+D60. This is on the hog. ~ PORK
 D61. When this is used as an adjective it means chief, cunning, sly. ~ ARCI
 D64. It's dangerous to separate this from its honey. ~ BEE
 D66. Unit of electrical resistance. ~ OHM
@@ -117,6 +117,9 @@ JUDGE, "The World's Wittiest Weekly," con-
 Misprints, kept as printed (printed → meant):
 A60: The first woman—according to Greek mythology. → PANDORA (answer key prints DANDORA; 60 Down PORK needs P)
 A63: Tintillating Nincompoops (init.). → Titillating
+
+Warnings:
+Note: The answer key for this puzzle, printed in the March 26, 1927 issue, gave 60 Across as DANDORA (and so 60 Down as DORK), presumably in error. It has been corrected to PANDORA and PORK.
 
 OCR review flags:
 A33: fixed
