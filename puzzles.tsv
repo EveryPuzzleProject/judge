@@ -12,7 +12,7 @@ judge1924-12-27	1924-12-27	9	done	restored		y	2026-10-01
 judge1925-01-03	1925-01-03	10	done	restored		y	2026-10-12
 judge1925-01-10	1925-01-10	11	done	restored		y	2026-09-29
 judge1925-01-17	1925-01-17	12	done	restored		y	2026-10-01
-judge1925-01-24	1925-01-24	13	done	restored		y	2026-10-01
+judge1925-01-24	1925-01-24	13	done	restored		y	2026-10-12
 judge1925-01-31	1925-01-31	14	done	restored		y	2026-10-01
 judge1925-02-07	1925-02-07	15	done	restored		y	2026-10-01
 judge1925-02-14	1925-02-14	16	later	restored		y	2026-10-11
@@ -34,7 +34,7 @@ judge1925-05-30	1925-05-30	31	done	restored		y	2026-10-01
 judge1925-06-06	1925-06-06	32	done	restored		y	2026-10-01
 judge1925-06-13	1925-06-13	33	done	restored		y	2026-10-01
 judge1925-06-20	1925-06-20	34	done	restored		y	2026-10-01
-judge1925-06-27	1925-06-27	35	done	restored		y	2026-10-01
+judge1925-06-27	1925-06-27	35	done	restored		y	2026-10-12
 judge1925-07-04	1925-07-04	36	done	restored		y	2026-10-01
 judge1925-07-11	1925-07-11	37	done	restored		y	2026-10-01
 judge1925-07-18	1925-07-18	38	done	restored		y	2026-10-01
@@ -87,9 +87,9 @@ judge1926-07-31	1926-07-31	84	done	restored		y	2026-10-01
 judge1926-08-07	1926-08-07	85	done	restored		y	2026-10-01
 judge1926-08-14	1926-08-14	86	done	restored		y	2026-10-12
 judge1926-08-21	1926-08-21	87	done	restored		y	2026-10-01
-judge1926-08-28	1926-08-28	88	done	restored		y	2026-10-01
+judge1926-08-28	1926-08-28	88	done	restored		y	2026-10-12
 judge1926-09-04	1926-09-04	89	done	restored		y	2026-10-01
-judge1926-09-11	1926-09-11	90	done	restored		y	2026-10-01
+judge1926-09-11	1926-09-11	90	done	restored		y	2026-10-12
 judge1926-09-18	1926-09-18	91	done	restored		y	2026-10-01
 judge1926-09-25	1926-09-25	92	done	restored		y	2026-10-12
 judge1926-10-02	1926-10-02	93	done	restored		y	2026-10-12
@@ -104,7 +104,7 @@ judge1926-12-04	1926-12-04	102	done	restored		y	2026-10-01
 judge1926-12-11	1926-12-11	103	done	restored		y	2026-10-12
 judge1926-12-18	1926-12-18	104	done	restored		y	2026-10-01
 judge1926-12-25	1926-12-25	105	done	restored		y	2026-10-01
-judge1927-01-01	1927-01-01	106	done	restored		y	2026-10-01
+judge1927-01-01	1927-01-01	106	done	restored		y	2026-10-12
 judge1927-01-08	1927-01-08	107	done	restored		y	2026-10-12
 judge1927-01-15	1927-01-15	108	done	restored		y	2026-10-01
 judge1927-01-22	1927-01-22	109	done	restored		y	2026-10-11
@@ -138,7 +138,7 @@ judge1927-08-06	1927-08-06	15	done	restored			2026-10-12
 judge1927-08-13	1927-08-13	16	done	restored			2026-10-12
 judge1927-08-20	1927-08-20	17	done	restored		y	2026-10-12
 judge1927-08-27	1927-08-27	18	done	restored			2026-10-12
-judge1927-09-10	1927-09-10	20	done	restored			2026-10-02
+judge1927-09-10	1927-09-10	20	done	restored		y	2026-10-12
 judge1927-09-17	1927-09-17	21	done	restored			2026-10-02
 judge1927-09-24	1927-09-24	22	done	restored			2026-10-12
 judge1927-10-01	1927-10-01	23	done	restored			2026-10-02
@@ -158,7 +158,7 @@ judge1928-02-04	1928-02-04	37	done	restored			2026-10-12
 judge1928-02-11	1928-02-11	38	done	restored			2026-10-12
 judge1928-02-18	1928-02-18	39	done	restored			2026-10-02
 judge1928-02-25	1928-02-25	40	done	restored			2026-10-02
-judge1928-03-03	1928-03-03	41	done	restored		y	2026-10-11
+judge1928-03-03	1928-03-03	41	done	restored		y	2026-10-12
 judge1928-03-10	1928-03-10	42	done	restored			2026-10-12
 judge1928-03-17	1928-03-17	43	done	restored		y	2026-10-11
 judge1928-03-24	1928-03-24	44	done	restored		y	2026-10-11
@@ -171,7 +171,7 @@ judge1928-05-12	1928-05-12	51	done	restored		y	2026-10-12
 judge1928-05-19	1928-05-19	52	done	restored			2026-10-02
 judge1928-05-26	1928-05-26	53	done	restored			2026-10-12
 judge1928-06-02	1928-06-02	54	done	restored		y	2026-10-11
-judge1928-06-09	1928-06-09	55	done	restored			2026-10-02
+judge1928-06-09	1928-06-09	55	done	restored		y	2026-10-12
 judge1928-06-16	1928-06-16	56	done	restored			2026-10-02
 judge1928-06-23	1928-06-23	57	done	restored		y	2026-10-11
 judge1928-06-30	1928-06-30	58	done	restored			2026-10-02
@@ -204,7 +204,7 @@ judge1928-12-29	1928-12-29	84	done	restored			2026-10-02
 judge1929-01-05	1929-01-05	85	done	restored			2026-10-02
 judge1929-01-12	1929-01-12	86	done	restored			2026-10-02
 judge1929-01-19	1929-01-19	87	done	restored			2026-10-02
-judge1929-01-26	1929-01-26	88	done	restored			2026-10-02
+judge1929-01-26	1929-01-26	88	done	restored		y	2026-10-12
 judge1929-02-02	1929-02-02	89	done	restored		y	2026-10-11
 judge1929-02-09	1929-02-09	90	done	restored			2026-10-02
 judge1929-02-16	1929-02-16	91	done	restored			2026-10-02
@@ -316,8 +316,8 @@ judge1931-03-07	1931-03-07	198	later	restored			2026-10-08
 judge1931-03-14	1931-03-14	199	later	restored			2026-10-08
 judge1931-03-21	1931-03-21	200	later	restored			2026-10-08
 judge1931-03-28	1931-03-28	201	later	restored			2026-10-08
-judge1931-04-04	1931-04-04	202	later	needs-person	quick		2026-10-08
-judge1931-04-11	1931-04-11	203	later	restored			2026-10-08
+judge1931-04-04	1931-04-04	202	later	restored		y	2026-10-12
+judge1931-04-11	1931-04-11	203	later	restored		y	2026-10-12
 judge1931-04-18	1931-04-18	204	later	restored			2026-10-08
 judge1931-04-25	1931-04-25	205	later	restored			2026-10-08
 judge1931-05-02	1931-05-02	206	later	needs-person	quick		2026-10-08
@@ -378,14 +378,14 @@ judge1932-05-14	1932-05-14	260	later	restored			2026-10-08
 judge1932-05-21	1932-05-21	261	later	restored			2026-10-08
 judge1932-05-28	1932-05-28	262	later	restored			2026-10-08
 judge1932-06-04	1932-06-04	263	later	restored		y	2026-10-11
-judge1932-06-11	1932-06-11	264	later	needs-person	quick		2026-10-08
+judge1932-06-11	1932-06-11	264	later	restored		y	2026-10-12
 judge1932-06-18	1932-06-18	265	later	restored			2026-10-12
 judge1932-06-25	1932-06-25	266	later	restored			2026-10-08
 judge1932-07-01	1932-07-01	267	later	restored			2026-10-08
 judge1932-07-01b	1932-07-01	268	later	restored			2026-10-12
-judge1932-08-01	1932-08-01	269	later	needs-person	quick		2026-10-08
+judge1932-08-01	1932-08-01	269	later	restored		y	2026-10-12
 judge1932-08-01b	1932-08-01	270	later	restored			2026-10-08
-judge1932-09-01	1932-09-01	271	later	needs-person	quick		2026-10-08
+judge1932-09-01	1932-09-01	271	later	restored		y	2026-10-12
 judge1932-09-01b	1932-09-01	272	later	restored			2026-10-08
 judge1932-10-01	1932-10-01	274	later	restored			2026-10-08
 judge1932-10-01b	1932-10-01	273	later	needs-person	no-key		2026-10-12
@@ -394,24 +394,24 @@ judge1932-11-01b	1932-11-01	276	later	restored			2026-10-08
 judge1932-12-01	1932-12-01	277	later	restored			2026-10-08
 judge1932-12-01b	1932-12-01	278	later	restored			2026-10-08
 judge1933-01-01	1933-01-01	279	later	restored			2026-10-08
-judge1933-01-01b	1933-01-01	280	later	needs-person	quick		2026-10-08
+judge1933-01-01b	1933-01-01	280	later	restored		y	2026-10-12
 judge1933-02-01	1933-02-01	281	later	restored			2026-10-08
 judge1933-03-01	1933-03-01	282	later	needs-person	quick		2026-10-08
 judge1933-03-01b	1933-03-01	283	later	needs-person	quick		2026-10-08
 judge1933-04-01	1933-04-01	284	later	needs-person	quick		2026-10-08
 judge1933-04-01b	1933-04-01	285	later	restored			2026-10-12
-judge1933-05-01	1933-05-01	286	later	needs-person	quick		2026-10-08
+judge1933-05-01	1933-05-01	286	later	restored		y	2026-10-12
 judge1933-05-01b	1933-05-01	287	later	restored			2026-10-08
 judge1933-06-01	1933-06-01	288	later	needs-person	quick		2026-10-08
 judge1933-06-01b	1933-06-01	289	later	restored		y	2026-10-11
-judge1933-07-01	1933-07-01	290	later	needs-person	quick		2026-10-08
-judge1933-07-01b	1933-07-01	291	later	needs-person	quick		2026-10-08
-judge1933-08-01	1933-08-01	292	later	needs-person	quick		2026-10-08
+judge1933-07-01	1933-07-01	290	later	restored		y	2026-10-12
+judge1933-07-01b	1933-07-01	291	later	restored		y	2026-10-12
+judge1933-08-01	1933-08-01	292	later	restored		y	2026-10-12
 judge1933-08-01b	1933-08-01	293	later	restored			2026-10-12
-judge1933-09-01	1933-09-01	295	later	needs-person	quick		2026-10-08
+judge1933-09-01	1933-09-01	295	later	needs-person	ruling	y	2026-10-12
 judge1933-09-01b	1933-09-01	294	later	restored			2026-10-12
 judge1933-10-01	1933-10-01	296	later	restored		y	2026-10-11
-judge1933-10-01b	1933-10-01	297	later	later			
+judge1933-10-01b	1933-10-01	297	later	restored		y	2026-10-12
 judge1933-11-01	1933-11-01	298	later	restored			2026-10-08
 judge1933-11-01b	1933-11-01	299	later	needs-person	quick		2026-10-08
 judge1933-12-01	1933-12-01	300	later	restored			2026-10-08
@@ -422,13 +422,13 @@ judge1934-03-01	1934-03-01	304	later	restored			2026-10-08
 judge1934-03-01b	1934-03-01	305	later	restored		y	2026-10-11
 judge1934-04-01	1934-04-01	306	later	restored			2026-10-08
 judge1934-04-01b	1934-04-01	307	later	needs-person	quick		2026-10-08
-judge1934-05-01	1934-05-01	308	later	needs-person	quick		2026-10-08
+judge1934-05-01	1934-05-01	308	later	restored		y	2026-10-12
 judge1934-05-01b	1934-05-01	309	later	restored			2026-10-08
 judge1934-06-01	1934-06-01	310	later	restored			2026-10-08
 judge1934-06-01b	1934-06-01	311	later	restored			2026-10-08
 judge1934-07-01	1934-07-01	312	later	restored		y	2026-10-11
-judge1934-07-01b	1934-07-01	313	later	needs-person	quick		2026-10-08
-judge1934-08-01	1934-08-01	314	later	needs-person	quick		2026-10-08
+judge1934-07-01b	1934-07-01	313	later	restored		y	2026-10-12
+judge1934-08-01	1934-08-01	314	later	restored		y	2026-10-12
 judge1934-08-01b	1934-08-01	315	later	restored			2026-10-08
 judge1934-09-01	1934-09-01	316	later	needs-person	quick		2026-10-08
 judge1934-09-01b	1934-09-01	317	later	restored		y	2026-10-11
@@ -443,7 +443,7 @@ judge1935-01-01b	1935-01-01	324	later	restored			2026-10-12
 judge1935-02-01	1935-02-01	326	later	needs-person	quick		2026-10-08
 judge1935-02-01b	1935-02-01	327	later	restored			2026-10-12
 judge1935-03-01	1935-03-01	328	later	restored			2026-10-08
-judge1935-03-01b	1935-03-01	329	later	needs-person	quick		2026-10-08
+judge1935-03-01b	1935-03-01	329	later	restored		y	2026-10-12
 judge1935-04-01	1935-04-01	330	later	needs-person	quick		2026-10-08
 judge1935-04-01b	1935-04-01	331	later	restored			2026-10-12
 judge1935-05-01	1935-05-01	333	later	restored			2026-10-08
@@ -453,19 +453,19 @@ judge1935-06-01b	1935-06-01	335	later	restored			2026-10-08
 judge1935-07-01	1935-07-01	336	later	needs-person	quick		2026-10-08
 judge1935-07-01b	1935-07-01	337	later	restored			2026-10-08
 judge1935-08-01	1935-08-01	338	later	restored		y	2026-10-11
-judge1935-08-01b	1935-08-01	339	later	needs-person	quick		2026-10-08
+judge1935-08-01b	1935-08-01	339	later	restored		y	2026-10-12
 judge1935-09-01	1935-09-01	340	later	restored		y	2026-10-11
 judge1935-09-01b	1935-09-01	341	later	restored			2026-10-08
 judge1935-10-01	1935-10-01	342	later	needs-person	quick		2026-10-08
 judge1935-10-01b	1935-10-01	343	later	needs-person	quick		2026-10-08
 judge1935-11-01	1935-11-01	345	later	restored			2026-10-08
 judge1935-11-01b	1935-11-01	344	later	restored			2026-10-12
-judge1935-12-01	1935-12-01	347	later	needs-person	quick		2026-10-08
+judge1935-12-01	1935-12-01	347	later	restored		y	2026-10-12
 judge1935-12-01b	1935-12-01	346	later	restored			2026-10-12
 judge1936-01-01	1936-01-01	348	later	restored			2026-10-08
 judge1936-01-01b	1936-01-01	349	later	needs-person	quick		2026-10-08
 judge1936-02-01	1936-02-01	350	later	needs-person	quick		2026-10-08
-judge1936-02-01b	1936-02-01	351	later	needs-person	quick		2026-10-08
+judge1936-02-01b	1936-02-01	351	later	restored		y	2026-10-12
 judge1936-03-01	1936-03-01	353	later	restored			2026-10-08
 judge1936-03-01b	1936-03-01	352	later	restored			2026-10-12
 judge1936-04-01	1936-04-01	354	later	needs-person	quick		2026-10-08
@@ -474,19 +474,19 @@ judge1936-05-01	1936-05-01	356	later	restored			2026-10-08
 judge1936-05-01b	1936-05-01	357	later	restored			2026-10-08
 judge1936-06-01	1936-06-01	358	later	restored		y	2026-10-11
 judge1936-06-01b	1936-06-01	359	later	restored			2026-10-08
-judge1936-07-01	1936-07-01	360	later	needs-person	quick		2026-10-08
+judge1936-07-01	1936-07-01	360	later	restored		y	2026-10-12
 judge1936-07-01b	1936-07-01	361	later	restored			2026-10-08
 judge1936-08-01	1936-08-01	362	later	needs-person	quick		2026-10-08
 judge1936-08-01b	1936-08-01	363	later	restored			2026-10-08
 judge1936-09-01	1936-09-01	365	later	restored			2026-10-08
 judge1936-09-01b	1936-09-01	364	later	restored			2026-10-12
-judge1936-10-01	1936-10-01	366	later	needs-person	quick		2026-10-08
+judge1936-10-01	1936-10-01	366	later	restored		y	2026-10-12
 judge1936-10-01b	1936-10-01	367	later	restored			2026-10-08
 judge1936-11-01	1936-11-01	369	later	restored			2026-10-08
 judge1936-11-01b	1936-11-01	368	later	restored			2026-10-12
 judge1936-12-01	1936-12-01	370	later	restored		y	2026-10-11
 judge1936-12-01b	1936-12-01	371	later	needs-person	ruling		2026-10-12
-judge1937-01-01	1937-01-01	372	later	needs-person	quick		2026-10-08
+judge1937-01-01	1937-01-01	372	later	restored		y	2026-10-12
 judge1937-01-01b	1937-01-01	373	later	restored			2026-10-08
 judge1937-02-01	1937-02-01	374	later	needs-person	quick		2026-10-08
 judge1937-02-01b	1937-02-01	375	later	needs-person	quick		2026-10-08
@@ -496,19 +496,19 @@ judge1937-04-01	1937-04-01	378	later	restored			2026-10-08
 judge1937-04-01b	1937-04-01	379	later	restored			2026-10-08
 judge1937-05-01	1937-05-01	381	later	needs-person	quick		2026-10-08
 judge1937-05-01b	1937-05-01	380	later	restored			2026-10-12
-judge1937-06-01	1937-06-01	382	later	needs-person	quick		2026-10-08
-judge1937-06-01b	1937-06-01	383	later	needs-person	quick		2026-10-08
+judge1937-06-01	1937-06-01	382	later	restored		y	2026-10-12
+judge1937-06-01b	1937-06-01	383	later	restored		y	2026-10-12
 judge1937-07-01	1937-07-01	384	later	restored			2026-10-08
 judge1937-07-01b	1937-07-01	385	later	restored			2026-10-08
-judge1937-08-01	1937-08-01	386	later	needs-person	quick		2026-10-08
+judge1937-08-01	1937-08-01	386	later	needs-person	ruling	y	2026-10-12
 judge1937-08-01b	1937-08-01	387	later	needs-person	quick		2026-10-08
-judge1937-09-01	1937-09-01	388	later	needs-person	quick		2026-10-08
-judge1937-09-01b	1937-09-01	389	later	needs-person	quick		2026-10-08
+judge1937-09-01	1937-09-01	388	later	restored		y	2026-10-12
+judge1937-09-01b	1937-09-01	389	later	restored		y	2026-10-12
 judge1937-10-01	1937-10-01	390	later	restored			2026-10-08
 judge1937-10-01b	1937-10-01	391	later	restored			2026-10-12
 judge1937-11-01	1937-11-01	392	later	restored			2026-10-08
 judge1937-11-01b	1937-11-01	393	later	restored		y	2026-10-11
-judge1937-12-01	1937-12-01	394	later	needs-person	quick		2026-10-08
+judge1937-12-01	1937-12-01	394	later	needs-person	ruling	y	2026-10-12
 judge1937-12-01b	1937-12-01	395	later	restored			2026-10-08
 judge1938-01-01	1938-01-01	396	later	restored			2026-10-08
 judge1938-01-01b	1938-01-01	397	later	restored			2026-10-08
@@ -517,7 +517,7 @@ judge1938-02-01b	1938-02-01	399	later	restored			2026-10-08
 judge1938-03-01	1938-03-01	400	later	restored			2026-10-08
 judge1938-03-01b	1938-03-01	401	later	restored			2026-10-08
 judge1938-04-01	1938-04-01	402	later	restored			2026-10-08
-judge1938-04-01b	1938-04-01	403	later	needs-person	quick		2026-10-08
+judge1938-04-01b	1938-04-01	403	later	restored		y	2026-10-12
 judge1938-05-01	1938-05-01	404	later	restored			2026-10-08
 judge1938-06-01	1938-06-01	405	later	restored			2026-10-08
 judge1938-07-01	1938-07-01	406	later	restored			2026-10-08

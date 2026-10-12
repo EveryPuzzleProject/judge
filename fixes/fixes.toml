@@ -1040,3 +1040,6 @@ solution = [
   "LETS#ROGER#CAIN",
   "PESTS#BADEN#MRS",
 ]
+
+[puzzle."judge1933-10-01b"]
+provenance = "r3c5 is a white square: the printed grid numbers r2c5 13 (POOR, Insull-ated) and the answer key prints an O at r3c5; the OCR read the smudged square as black, which shifted the numbering of clues 13-20. Found by the batch-12 agent review; confirmed by Alex DeJarnatt (2026-10-12)."
