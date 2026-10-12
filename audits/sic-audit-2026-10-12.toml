@@ -1,0 +1,54 @@
+# Proposed additions to fixes/fixes.toml from the sic audit (2026-10-12). Not applied yet.
+
+# --- Answer-key misprints (each key letter checked in the scan; the crossing clue settles it)
+[puzzle."judge1926-12-18"]
+note = "The solution grid that ran on December 25, 1926 printed 17 Across as RE (and so 2 Down as EMEERS). It has been corrected to RB and EMBERS."
+
+[puzzle."judge1927-03-05"]
+note = "The solution grid that ran on March 12, 1927 printed 38 Across as ERACE (and so 39 Down as CEA). It has been corrected to ERASE and SEA."
+
+[puzzle."judge1927-08-06"]
+note = "The solution grid that ran on August 13, 1927 printed 53 Across as SEAMAN (and so 43 Down as PATA). It has been corrected to SEAMEN and PATE."
+
+[puzzle."judge1928-02-18"]
+note = "The solution grid that ran on February 25, 1928 printed 93 Across as PARTS (and so 88 Down as OTCU). It has been corrected to PARIS and OICU."
+
+[puzzle."judge1928-06-09"]
+note = "The solution grid that ran on June 16, 1928 printed 56 Across as AND (and so 47 Down as IRDN). It has been corrected to ANO and IRON."
+
+[puzzle."judge1928-07-21"]
+note = "The solution grid that ran on July 28, 1928 printed 26 Across as JRS (and so 8 Down as CADDJ). It has been corrected to YRS and CADDY."
+
+[puzzle."judge1931-04-11"]
+note = "The solution grid that ran on April 18, 1931 printed 40 Across as SLATE (and so 31 Down as SNATE) and 2 Down as ABEO (and so 20 Across as SO). They have been corrected to SLAKE and SNAKE, and ABED and SD."
+
+# judge1928-09-01: existing note, last sentence becomes:
+#   "The solution grid that ran on September 8, 1928 printed 1 Down as TAHG (and so 15 Across as HAIL). It has been corrected to TANG and NAIL."
+
+# --- A run of printed numbers off by one (the existing numbering-note convention)
+[puzzle."judge1926-12-04"]
+note = "The printed grid numbers one square 43a, so from there on the printed numbers run one lower than the standard numbering used here: printed 43a Across is 44 Across here, printed 46 Across is 47 Across, and so on to printed 70 Across (71 Across here); printed 44 Down is 45 Down here, through printed 64 Down (65 Down here). The clues are as printed, each under its own entry."
+
+# --- Single misprinted clue numbers: transcription detail, so provenance (stays out of gxd)
+[puzzle."judge1925-05-23"]
+provenance = "The printed clue list numbers 72 Down as 71; the clue is under 72 Down here."
+[puzzle."judge1925-11-21"]
+provenance = "The printed clue list numbers 66 Across as 65; the clue is under 66 Across here."
+[puzzle."judge1926-01-02"]
+provenance = "The printed clue list numbers 5 Across as 3; the clue is under 5 Across here."
+[puzzle."judge1926-02-27"]
+provenance = "The printed clue list numbers 4 Across as 3; the clue is under 4 Across here."
+[puzzle."judge1926-04-03"]
+provenance = "The printed clue list numbers 71 Down as 69; the clue is under 71 Down here."
+[puzzle."judge1926-07-10"]
+provenance = "The printed clue list numbers 52 Down as 54; the clue is under 52 Down here."
+[puzzle."judge1927-09-10"]
+provenance = "The printed clue list numbers 36 Across as 35; the clue is under 36 Across here."
+[puzzle."judge1928-01-14"]
+provenance = "The printed clue list numbers 73 Across as 71 (between 72 and 74); the clue is under 73 Across here."
+[puzzle."judge1928-11-24"]
+provenance = "The printed clue list numbers 8 Across as 7; the clue is under 8 Across here."
+[puzzle."judge1930-08-23"]
+provenance = "The printed clue list numbers 62 Down as 63; the clue is under 62 Down here."
+[puzzle."judge1930-04-26"]
+provenance = "The printed clue list has no clue for 62 Down (SE) and prints 64 Down's clue, 'The show-me state.', as 62; it is under 64 Down here."
