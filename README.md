@@ -44,3 +44,16 @@ which ones, and we'll arrange how to send them.
 and [xword-ocr](https://github.com/EveryPuzzleProject/xword-ocr), which read this
 repo's `fixes/` from a checkout beside them. Background, sources and open
 questions are in the [catalog entry](https://github.com/EveryPuzzleProject/catalog/blob/main/publications/judge.md).
+
+## In gxd
+
+`gxd-exports.tsv` lists every puzzle exported to the [gxd](https://github.com/century-arcade/xdformat)
+archive, one row each, for anyone who wants to credit or link back:
+
+- `gxd_id` is the puzzle's name in gxd (the second puzzle on a date is `<date>a` there, `<date>b` here); `xdid` is ours.
+- `gxd_mr` and `exported` say when it went in.
+- `proof_url` is the review page that shows the puzzle with every value's source.
+- `package_url` is the folder of its review package (scan crops, `ocr.json`, `review.json`).
+- `scan_url` is the archive.org page it was printed on.
+- `ai_reviewed` and `person_reviewed` say whether an AI or a person made or confirmed a change in the ledger.
+- `credit` is `Every Puzzle Project`.
