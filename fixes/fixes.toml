@@ -44,24 +44,24 @@ date = "1927-12-24"
 [puzzle."judge1924-11-01"]
 title = "Judge's Crossword Puzzles"
 puzzle_number = "1"
-note = "Judge's first crossword, introduced as 'Try this on your cerebellum!' ('Judge will run one of these Home Destroyers each week'). Unnumbered on the page; No. 1 by count."
+provenance = "Judge's first crossword, introduced as 'Try this on your cerebellum!' ('Judge will run one of these Home Destroyers each week'). Unnumbered on the page; No. 1 by count."
 
 [puzzle."judge1924-11-08"]
 title = "Judge's Crossword Puzzles"
 puzzle_number = "2"
-note = "Unnumbered on the page; No. 2 by count."
+provenance = "Unnumbered on the page; No. 2 by count."
 
 [puzzle."judge1924-11-15b"]
 title = "Judge's Crossword Puzzles"
 puzzle_number = "3"
-note = "Unnumbered on the page; No. 3 by count."
+provenance = "Unnumbered on the page; No. 3 by count."
 
 # The cover puzzle, printed over the cover illustration, which hides parts of
 # the grid. Its answers ran on page 34 of the next issue ("Answer to last
 # week's Cover Puzzle"); take the grid from them.
 [puzzle."judge1924-11-15"]
 title = "The Greatest Puzzle of Them All (Judge cover puzzle)"
-note = "Judge's first cover crossword, printed over the cover art; clues in 'Key to Judge's Cover Puzzle' on page 32."
+provenance = "Judge's first cover crossword, printed over the cover art; clues in 'Key to Judge's Cover Puzzle' on page 32."
 solution_from = "sim_judge_1924-11-15_87/34#0"
 # The printed answers are in a thin typeface that OCR misreads (PISSE, IAR,
 # ENVELOIES, ...); transcribed by hand from the answer-grid scan.
@@ -85,7 +85,7 @@ grid = [
 
 [puzzle."judge1924-11-22"]
 title = "Judge's Crossword Puzzle No. 4"
-note = "Black squares spell JUDGE; hatched cells in the scan. Grid needs a hand correction."
+provenance = "The black squares include cross-hatched ones that spell HA HA in two corners (clue 37 Across); the solid ones spell JUDGE. The puzzle has one-letter entries (20 Across = K, 80 Across = I) in the holes of the letters; the clue numbering follows the printed puzzle, not standard numbering rules. Solution not available: it would have run in the 29 November 1924 issue, whose archive.org scan is incomplete. Black squares spell JUDGE; hatched cells in the scan. Grid needs a hand correction."
 # "Answer to Puzzle No. 4" is under No. 5 on the one surviving puzzle page of
 # the 29 Nov 1924 issue (located by a page hint, see that page below).
 solution_from = "sim_judge_1924-11-29_87/0#0"
@@ -126,7 +126,7 @@ clue_page = 33
 
 [puzzle."judge1924-12-06"]
 title = "Judge's Crossword Puzzle No. 6"
-note = "Two face-shaped grids, 'Before Reading Judge' (1-41) and '—and After' (42-86), one clue list. The page staggers them side by side; they are stacked here, the first face above the second, which keeps the printed numbering. Each face is as printed: a ring of black squares with a black bar above and below, and the face's hatched squares black; '_' marks the space outside the faces. The two circled squares in the second face (its eyes) are in no entry and are black here."
+provenance = "Two face-shaped grids, 'Before Reading Judge' (1-41) and '—and After' (42-86), one clue list. The page staggers them side by side; they are stacked here, the first face above the second, which keeps the printed numbering. Each face is as printed: a ring of black squares with a black bar above and below, and the face's hatched squares black; '_' marks the space outside the faces. The two circled squares in the second face (its eyes) are in no entry and are black here."
 solution_from = "sim_judge_1924-12-13_87/34#0"
 grid = [
   "______###______",
@@ -176,7 +176,7 @@ clue_page = 33
 
 [puzzle."judge1925-02-14"]
 title = "Judge's Crossword Puzzle No. 16"
-note = "Heart-shaped grid, as printed: '_' marks the space outside the heart (and the notch between its lobes); every black square is printed black."
+provenance = "Heart-shaped grid, as printed: '_' marks the space outside the heart (and the notch between its lobes); every black square is printed black."
 solution_from = "sim_judge_1925-02-21_88/34#0"
 grid = [
   "_____OTTO_____IBEX_____",
@@ -226,7 +226,7 @@ note = "1 Down is printed as the number alone, with no clue text; its answer is 
 
 # Answer key found in the gap index, 2026-10-11 (the user confirmed it; joined and checked against the scan).
 [puzzle."judge1934-09-01"]
-note = "The answer key ran in the October 1934 issue (page 31, 'Solution of Puzzle No. 316'). The harvest found it in two pieces and didn't match it; the two are joined here, with the four squares the OCR misread or couldn't read (BOAS, SAD, WAS, RIG) read from the scan."
+provenance = "The answer key ran in the October 1934 issue (page 31, 'Solution of Puzzle No. 316'). The harvest found it in two pieces and didn't match it; the two are joined here, with the four squares the OCR misread or couldn't read (BOAS, SAD, WAS, RIG) read from the scan."
 solution = [
   "WING#CAB#PRY#PLOT",
   "ODOR#ARA#RUE#REAR",
@@ -249,7 +249,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1936-04-01"]
-note = "The answer key ran in the May 1936 issue (page 32). The harvest found only 14 of its 15 columns and didn't match it; the key here is read from the scan."
+provenance = "The answer key ran in the May 1936 issue (page 32). The harvest found only 14 of its 15 columns and didn't match it; the key here is read from the scan."
 solution = [
   "COURT#DISAPPEAR",
   "A#PEAL#SORREL#E",
@@ -270,7 +270,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1931-05-02"]
-note = "The answer key ran in the May 9, 1931 issue (page 31, 'Solution of Last Week's Puzzle'). The harvest found only 13 of its 15 columns and didn't match it; the key here is read from the scan."
+provenance = "The answer key ran in the May 9, 1931 issue (page 31, 'Solution of Last Week's Puzzle'). The harvest found only 13 of its 15 columns and didn't match it; the key here is read from the scan."
 solution = [
   "#APPLES#MARKER#",
   "AMER#SHOAL#IDEA",
@@ -461,7 +461,7 @@ extra_pages = [48]
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1931-04-04"]
-note = "The answer key ran in the April 11, 1931 issue (page 31, 'Solution of Last Week's Puzzle'). The harvest found only 12 of its 15 columns and didn't match it; the key here is read from the scan."
+provenance = "The answer key ran in the April 11, 1931 issue (page 31, 'Solution of Last Week's Puzzle'). The harvest found only 12 of its 15 columns and didn't match it; the key here is read from the scan."
 solution = [
   "CROSS#ARK#COMB#",
   "A#FAT#FAIL#REEF",
@@ -482,7 +482,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1937-12-01"]
-note = "The answer key ran in the January 1938 issue (pages 83-84). The harvest found it in three pieces and didn't match it; the key here is read from the scan."
+provenance = "The answer key ran in the January 1938 issue (pages 83-84). The harvest found it in three pieces and didn't match it; the key here is read from the scan."
 solution = [
   "BARTENDERS##SOU",
   "URGE#ORGAN#WORM",
@@ -536,7 +536,8 @@ extra_pages = [36, 39]
 # Checked against the scans by the user, 2026-10-11.
 [puzzle."judge1930-05-17"]
 puzzle_number = "156"
-note = "Printed as No. 155, a misprint: No. 155 ran the week before (May 10), and this is No. 156 by the series and by the solutions, which ran as printed puzzles' solutions in the following issues (the user checked the scans)."
+note = "Printed as No. 155, a misprint: this is No. 156."
+provenance = "Printed as No. 155, a misprint: No. 155 ran the week before (May 10), and this is No. 156 by the series and by the solutions, which ran as printed puzzles' solutions in the following issues (the user checked the scans)."
 
 # Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
 [issue."sim_judge_1925-02-21_88"]
@@ -672,10 +673,10 @@ extra_pages = [6]
 
 # Checked against the scans by the user, 2026-10-11.
 [puzzle."judge1939-01-01"]
-note = "No solution found. This is the last Judge issue we have (January 1939), and it printed the solutions to the December 1938 puzzles; this puzzle's solution would have run in a later issue."
+provenance = "No solution found. This is the last Judge issue we have (January 1939), and it printed the solutions to the December 1938 puzzles; this puzzle's solution would have run in a later issue."
 
 [puzzle."judge1939-01-01b"]
-note = "No solution found. This is the last Judge issue we have (January 1939), and it printed the solutions to the December 1938 puzzles; this puzzle's solution would have run in a later issue."
+provenance = "No solution found. This is the last Judge issue we have (January 1939), and it printed the solutions to the December 1938 puzzles; this puzzle's solution would have run in a later issue."
 
 # Checked against the scans by the user, 2026-10-11.
 [puzzle."judge1925-10-17b"]
@@ -683,7 +684,7 @@ skip = "The same printed page as judge1925-10-10 (No. 44, with No. 43's solution
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1933-09-01b"]
-note = "The answer key ran in the October 1933 issue, page 22 ('Solution of Puzzle No. 294', https://archive.org/details/sim_judge_1933-10_105/page/n25/mode/1up), at the page's outer edge. The harvest didn't match it; the key here is read from the scan."
+provenance = "The answer key ran in the October 1933 issue, page 22 ('Solution of Puzzle No. 294', https://archive.org/details/sim_judge_1933-10_105/page/n25/mode/1up), at the page's outer edge. The harvest didn't match it; the key here is read from the scan."
 solution = [
   "####CHAPERONE##",
   "###BOAS#NOMAD##",
@@ -704,7 +705,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1933-09-01"]
-note = "The answer key ran in the October 1933 issue, page 23 ('Solution of Puzzle No. 295', https://archive.org/details/sim_judge_1933-10_105/page/n26/mode/1up), at the page's inner edge. The harvest didn't match it; the key here is read from the scan."
+provenance = "The answer key ran in the October 1933 issue, page 23 ('Solution of Puzzle No. 295', https://archive.org/details/sim_judge_1933-10_105/page/n26/mode/1up), at the page's inner edge. The harvest didn't match it; the key here is read from the scan."
 solution = [
   "###WHIRLPOOL###",
   "#SCHEME#AVAILS#",
@@ -726,11 +727,12 @@ solution = [
 # Checked against the scans by the user, 2026-10-11.
 [puzzle."judge1936-12-01b"]
 puzzle_number = "371"
-note = "Printed without a number, as 'Dirty Work at the Crosswords'. Numbered 371 here by inference (the user, from the scans): the series runs from No. 370, earlier in this issue, to No. 372 in January 1937, and January 1937 printed this puzzle's solution beside No. 370's. The grid has circled squares, and the printed note under it reads: 'Each letter placed in the circles is a clue. The solution has three words of 3, 7, and 8 letters respectively. If you arrange your clues in the proper order, you will discover the culprit's identity.' The circles aren't marked in this transcription yet."
+note = "The printed note under the grid reads: 'Each letter placed in the circles is a clue. The solution has three words of 3, 7, and 8 letters respectively. If you arrange your clues in the proper order, you will discover the culprit's identity.'"
+provenance = "Printed without a number, as 'Dirty Work at the Crosswords'. Numbered 371 here by inference (the user, from the scans): the series runs from No. 370, earlier in this issue, to No. 372 in January 1937, and January 1937 printed this puzzle's solution beside No. 370's. The grid has circled squares; they aren't marked in this transcription yet."
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1925-02-21"]
-note = "The answer key ran the next week, on No. 18's page ('Answer to Puzzle No. 17', https://archive.org/details/sim_judge_1925-02-28_88/page/n34/mode/1up; found by the user). The harvest read only a corner of it; the key here is read from the scan."
+provenance = "The answer key ran the next week, on No. 18's page ('Answer to Puzzle No. 17', https://archive.org/details/sim_judge_1925-02-28_88/page/n34/mode/1up; found by the user). The harvest read only a corner of it; the key here is read from the scan."
 solution = [
   "###LOVE#SCAB###",
   "##PORES#ARGON##",
@@ -758,7 +760,7 @@ include = true
 # continuation reader didn't pick up; typed from the scan.
 [puzzle."judge1930-08-30"]
 title = "Judge's Crossword Puzzle No. 171"
-note = "The Vertical (Down) clues are printed on the next page (https://archive.org/details/sim_judge_1930-08-30_99/page/n32/mode/1up). The pipeline didn't read them across the two pages, so they were typed by hand from the scan. The answer key ran the next week ('Solution of Last Week's Puzzle', https://archive.org/details/sim_judge_1930-09-06_99/page/n32/mode/1up); the harvest read it only in pieces, so it is also read from the scan."
+provenance = "The Vertical (Down) clues are printed on the next page (https://archive.org/details/sim_judge_1930-08-30_99/page/n32/mode/1up). The pipeline didn't read them across the two pages, so they were typed by hand from the scan. The answer key ran the next week ('Solution of Last Week's Puzzle', https://archive.org/details/sim_judge_1930-09-06_99/page/n32/mode/1up); the harvest read it only in pieces, so it is also read from the scan."
 solution = [
   "PORTHOLE#STREAM",
   "ARMHOLES#TA#LIE",
@@ -828,7 +830,7 @@ D87 = "Don't be discouraged—this always comes in late."
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1935-02-01"]
-note = "The answer key ran in the March 1935 issue, under No. 328 (https://archive.org/details/sim_judge_1935-03_108/page/n36/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+provenance = "The answer key ran in the March 1935 issue, under No. 328 (https://archive.org/details/sim_judge_1935-03_108/page/n36/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
 solution = [
   "###LISTERINE###",
   "##LADLE#IVIED##",
@@ -849,7 +851,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1935-06-01"]
-note = "The answer key ran in the July 1935 issue (https://archive.org/details/sim_judge_1935-07_109/page/n26/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+provenance = "The answer key ran in the July 1935 issue (https://archive.org/details/sim_judge_1935-07_109/page/n26/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
 solution = [
   "INCA#DAM#HATE##",
   "ROAR#AMI#ASIDE#",
@@ -870,7 +872,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1935-12-01"]
-note = "The answer key ran in the January 1936 issue (https://archive.org/details/sim_judge_1936-01_110/page/n24/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+provenance = "The answer key ran in the January 1936 issue (https://archive.org/details/sim_judge_1936-01_110/page/n24/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
 solution = [
   "##SAFES#FRATS##",
   "#FARINA#LILACS#",
@@ -891,7 +893,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1936-01-01b"]
-note = "The answer key ran in the February 1936 issue, under No. 351 (https://archive.org/details/sim_judge_1936-02_110/page/n33/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+provenance = "The answer key ran in the February 1936 issue, under No. 351 (https://archive.org/details/sim_judge_1936-02_110/page/n33/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
 solution = [
   "BACHELOR#DETOUR",
   "ACHE#ALAR#WORRY",
@@ -912,7 +914,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1936-02-01"]
-note = "The answer key ran in the March 1936 issue, under No. 352 (https://archive.org/details/sim_judge_1936-03_110/page/n31/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+provenance = "The answer key ran in the March 1936 issue, under No. 352 (https://archive.org/details/sim_judge_1936-03_110/page/n31/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
 solution = [
   "ORGAN#HAY#DARED",
   "PORCUPINE#EBONY",
@@ -933,7 +935,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1936-02-01b"]
-note = "The answer key ran in the March 1936 issue, under No. 353 (https://archive.org/details/sim_judge_1936-03_110/page/n33/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+provenance = "The answer key ran in the March 1936 issue, under No. 353 (https://archive.org/details/sim_judge_1936-03_110/page/n33/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
 solution = [
   "MOUNT#MANICURED",
   "A#SOOT#BANANA#A",
@@ -954,7 +956,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1928-06-02"]
-note = "The answer key ran in the issue of June 9, 1928, on No. 55's page ('Solution of Last Week's Puzzle') (https://archive.org/details/sim_judge_1928-06-09_94/page/n31/mode/1up; found by the user). The harvest didn't find it; the key here is read from the scan."
+provenance = "The answer key ran in the issue of June 9, 1928, on No. 55's page ('Solution of Last Week's Puzzle') (https://archive.org/details/sim_judge_1928-06-09_94/page/n31/mode/1up; found by the user). The harvest didn't find it; the key here is read from the scan."
 solution = [
   "MOLE#FETES#SCAB",
   "EWE#TUXEDOS#USE",
@@ -975,7 +977,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1928-08-04"]
-note = "The answer key ran in the issue of August 11, 1928, the page after No. 64 ('Solution of Last Week's Puzzle') (https://archive.org/details/sim_judge_1928-08-11_95/page/n32/mode/1up; found by the user). The harvest didn't find it; the key here is read from the scan."
+provenance = "The answer key ran in the issue of August 11, 1928, the page after No. 64 ('Solution of Last Week's Puzzle') (https://archive.org/details/sim_judge_1928-08-11_95/page/n32/mode/1up; found by the user). The harvest didn't find it; the key here is read from the scan."
 solution = [
   "MAPLE#HASH#BEANS",
   "USUAL#OGRE#LAPEL",
@@ -997,7 +999,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1932-08-01"]
-note = "The answer key ran in the September 1932 issue ('Solution of Puzzle No. 269') (https://archive.org/details/sim_judge_1932-09_103/page/n24/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
+provenance = "The answer key ran in the September 1932 issue ('Solution of Puzzle No. 269') (https://archive.org/details/sim_judge_1932-09_103/page/n24/mode/1up; found by the user). The harvest read it only in pieces; the key here is read from the scan."
 solution = [
   "SUN#PLAY#RACK#SPA",
   "ERE#IOTA#EARN#KEL",
@@ -1020,7 +1022,7 @@ solution = [
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
 [puzzle."judge1927-10-15"]
-note = "The answer key ran the next week, on No. 26's page ('Solution of Last Week's Puzzle', https://archive.org/details/sim_judge_1927-10-15_93/page/n63/mode/1up; archive.org's 1927-10-15 item holds two issues). The harvest read it only in pieces; the key here is read from the scan."
+provenance = "The answer key ran the next week, on No. 26's page ('Solution of Last Week's Puzzle', https://archive.org/details/sim_judge_1927-10-15_93/page/n63/mode/1up; archive.org's 1927-10-15 item holds two issues). The harvest read it only in pieces; the key here is read from the scan."
 solution = [
   "ASP#MADAM#LAMBS",
   "POUR#DOMES#AERO",
