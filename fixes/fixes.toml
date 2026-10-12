@@ -727,7 +727,6 @@ solution = [
 # Checked against the scans by the user, 2026-10-11.
 [puzzle."judge1936-12-01b"]
 puzzle_number = "371"
-note = "The printed note under the grid reads: 'Each letter placed in the circles is a clue. The solution has three words of 3, 7, and 8 letters respectively. If you arrange your clues in the proper order, you will discover the culprit's identity.'"
 provenance = "Printed without a number, as 'Dirty Work at the Crosswords'. Numbered 371 here by inference (the user, from the scans): the series runs from No. 370, earlier in this issue, to No. 372 in January 1937, and January 1937 printed this puzzle's solution beside No. 370's. The grid has circled squares; they aren't marked in this transcription yet."
 
 # Answer key found in the gap index, 2026-10-11 (confirmed by the user; read from the scan).
