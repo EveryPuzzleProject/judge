@@ -33,7 +33,7 @@ A14. Abbreviation for a part of Africa. ~ WA
 A16. This is swell at sea. ~ SURGE
 A17. Green Rummies (init.). ~ GR
 A19. More "sharks" here on land than at sea. ~ MIAMI
-A22. Unattractive feature of a wcman's hat. ~ PRICE
+A22. Unattractive feature of a woman's hat. ~ PRICE
 A24. You might get this way with a dumb-bell. ~ STRONG
 A26. Malaria. ~ MIASMA
 A27. Home of the sheik. ~ TUNIS
@@ -109,12 +109,8 @@ D65. Sweet Mamma (init.). ~ SM
 D66. Our wish on 52 Vertical gratified. ~ OS
 
 
-Misprints, kept as printed (printed → meant):
-A22: Unattractive feature of a wcman's hat. → woman's
-A51: College bred—after a four-year leaf. → leaf
-D8: Exclamation of surprise. → Exclamation
-
 OCR review flags:
+A22: fixed
 A51: spell:lcaf>leaf
 A62: fixed
 D8: spell:Exelamation>Exclamation

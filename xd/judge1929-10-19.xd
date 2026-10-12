@@ -67,7 +67,7 @@ D6. French teeth. ~ DENTS
 D7. A clogged up canal. ~ ERIE
 D8. An abbreviated Revelation. ~ REV
 D9. A sweet kind of fruit. ~ STOLEN
-D10. Stowsaway. ~ HORDES
+D10. Stows away. ~ HORDES
 D12. An only child never has this. ~ NEPHEW
 D13. A girl's name. ~ ELOISE
 D16. The people at the information bureau. ~ BESIEGERS
@@ -95,9 +95,6 @@ D50. How to answer back to a cow. ~ MOO
 D52. An abbreviated gathering. ~ CO
 
 
-Misprints, kept as printed (printed → meant):
-D10: Stowsaway. → Stowaways
-
 OCR review flags:
 A19: fixed
 A24: fixed
@@ -106,3 +103,4 @@ A42: spell:earries>carries
 A48: spell:whieh>which
 A52: spell:diffieult>difficult
 D7: fixed
+D10: fixed

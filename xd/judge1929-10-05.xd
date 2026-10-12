@@ -48,7 +48,7 @@ A41. Bone. ~ OS
 A42. If you get this you'll get the air. ~ MITTEN
 A43. How far would you walk for three Camels? ~ LEAGUE
 A44. Feminine consent. ~ NO
-A45. What a girl does when you teil her she's pretty enough to eat. ~ EATS
+A45. What a girl does when you tell her she's pretty enough to eat. ~ EATS
 A47. Something old maids see when they look under the bed. ~ SLAT
 A48. A state of coma (abbr.) ~ GA
 A49. A gastronomic Greek letter. ~ ETA
@@ -115,13 +115,11 @@ D69. High school (abbr.) ~ HS
 D70. The speaker of the house. ~ MA
 
 
-Misprints, kept as printed (printed → meant):
-A45: What a girl does when you teil her she's pretty enough to eat. → tell
-
 OCR review flags:
 A10: spell:elean>clean
 A22: fixed
 A39: number-corrected:89
+A45: fixed
 A61: spell:suekers>suckers
 D55: spell:Seotch>Scotch
 D58: number-missing

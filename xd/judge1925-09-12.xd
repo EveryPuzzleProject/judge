@@ -31,7 +31,7 @@ A11. Ninety-nine and forty-four one hundredths per cent. (Come on, you reformers
 A12. Things that trains run on. (Nothing to do with schedule.) ~ RAILS
 A13. A revenue officer's party. ~ RAID
 A15. Widows may be grass, but they're never this. ~ GREEN
-A17. A subtle k'nd of sarcasm. ~ IRONY
+A17. A subtle kind of sarcasm. ~ IRONY
 A19. A low note (This is quite different from a vulgar letter.) vulgar letter.) ~ RE
 A21. The king of Bashan. ~ OG
 A22. Name of a book by Rudyard Kipling. ~ KIM
@@ -115,13 +115,13 @@ D73. Half of a printer's measure. ~ EN
 
 
 Misprints, kept as printed (printed → meant):
-A17: A subtle k'nd of sarcasm. → kind (broken type prints as k'nd)
 A66: This is what Sampson was because he brought down the house. → Samson
 D67: Cracked Silician Artichokes. (Try and get 'em!) (Abbr.) → Sicilian
 
 OCR review flags:
 A11: fixed
 A15: fixed
+A17: fixed
 A19: line-recovered, text-moved
 A21: number-missing, text-moved
 A22: number-corrected:2

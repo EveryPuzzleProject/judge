@@ -70,7 +70,7 @@ D1. This is real money. ~ CASH
 D2. A bone in the forearm. ~ ULNA
 D3. This is the color of a horse. ~ ROAN
 D4. One who tries to move the public for some change. ~ BEGGAR
-D5. This describes thoce who solve this puzzle. ~ SMART
+D5. This describes those who solve this puzzle. ~ SMART
 D6. The way most aviators start. ~ LOW
 D7. Stop! This is a period. ~ ERA
 D8. An attachment necessary for a radio. ~ EAR
@@ -109,12 +109,10 @@ D66. This is always upon a pedestal. ~ URN
 D67. Something you've all heard about cows. ~ MOO
 
 
-Misprints, kept as printed (printed → meant):
-D5: This describes thoce who solve this puzzle. → those
-
 OCR review flags:
 A18: spell:Conseious>Conscious
 A20: fixed
 A50: spell:eities>cities
 A54: spell:aecurate>accurate
 D4: fixed
+D5: fixed

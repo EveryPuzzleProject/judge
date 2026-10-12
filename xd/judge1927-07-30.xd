@@ -41,7 +41,7 @@ A28. What material is used in the tailoring of bags? ~ BURLAP
 A31. What is transferred from post to post? ~ MAIL
 A32. What man in history was afflicted with boils and halitosis? ~ JOB
 A34. What does a butcher buy at the stock market? ~ MEAT
-A35. What coin is reserved fcr the collection plate? ~ CENT
+A35. What coin is reserved for the collection plate? ~ CENT
 A36. What appears when a swarm of moths chew the rag? ~ HOLES
 A38. What do you do to feed the kitty? ~ ANTE
 A40. What is a dust receptacle? ~ URN
@@ -56,7 +56,7 @@ A51. What burden weighs heavily upon the shoulders of a bricklayer's assistant? 
 A52. What is the man who sits up to entertain his daughter's boy friends? ~ BORE
 A53. What is Judge Junior's hat? ~ CASTOR
 A54. What does the W. C. T. U. use as a tonic? ~ BRANDY
-A56. Who is the big cheese in the En pire State? ~ AL
+A56. Who is the big cheese in the Empire State? ~ AL
 A57. What do people do at a bureau of information? ~ ASK
 A59. What gives an old hen a pain in the neck? ~ AX
 A60. What is the only secret a woman can keep? ~ AGE
@@ -116,8 +116,6 @@ D71. What usually turns up over the week-end? (abbr.) ~ CO
 
 
 Misprints, kept as printed (printed → meant):
-A35: What coin is reserved fcr the collection plate? → for
-A56: Who is the big cheese in the En pire State? → Empire
 D37: What is a small imflammatory tumor on the edge of the eyelid? → inflammatory
 
 OCR review flags:
@@ -126,11 +124,13 @@ A21: spell:Mexiean>Mexican
 A22: spell:Chieago>Chicago
 A32: spell:afflieted>afflicted
 A34: spell:buteher>butcher, spell:stoek>stock
+A35: fixed
 A44: spell:conviet>convict
 A48: spell:eamels>camels
 A49: fixed
 A53: fixed
 A54: fixed
+A56: fixed
 A59: spell:neek>neck
 A60: fixed
 D1: fixed

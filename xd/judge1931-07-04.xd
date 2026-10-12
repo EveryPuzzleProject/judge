@@ -43,7 +43,7 @@ A31. Made things pretty hard to find. ~ HID
 A32. This girl has exactly a half-gallon capacity. ~ GAL
 A35. What little boys prefer to a bathtub. ~ POOL
 A37. Spring advertiser. ~ ROBIN
-A39. This didn't run fast enough ard got into an awful stew. ~ HARE
+A39. This didn't run fast enough and got into an awful stew. ~ HARE
 A40. Follow this and there you are! ~ ARROW
 A42. Where Frogs get seasick. ~ MER
 A43. A second-hand dress is one that someone's done this in. ~ SATIN
@@ -111,14 +111,12 @@ D63. This'll clear your throat. ~ AHEM
 D66. Unit of energy. ~ ERG
 
 
-Misprints, kept as printed (printed → meant):
-A39: This didn't run fast enough ard got into an awful stew. → and
-
 OCR review flags:
 A1: fixed
 A20: fixed
 A22: spell:cirea>circa
 A32: spell:exaetly>exactly, spell:eapacity>capacity
+A39: fixed
 A47: spell:elock>clock
 A51: spell:kiek>kick
 A55: spell:cireles>circles

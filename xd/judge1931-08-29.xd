@@ -89,7 +89,7 @@ D34. What an eccentric person usually has. ~ COMPLEX
 D35. A silent reproach from your partner. ~ GLARE
 D36. Where James must go. ~ HOME
 D38. These have a clouded reputation. ~ BLURS
-D39. If the Democratic candidate is this he wiil satisfy his party all right. ~ ELECTED
+D39. If the Democratic candidate is this he will satisfy his party all right. ~ ELECTED
 D40. Can you blame these for being so attached to her beautiful dark eyes? ~ LASHES
 D42. To make it 50-50. ~ HALVE
 D43. A beastly broadcast (plur.). ~ SNORTS
@@ -105,7 +105,6 @@ D59. Pronoun 1st person plural—Swedish. ~ VE
 
 Misprints, kept as printed (printed → meant):
 A7: Fools—Dumbells—Blockheads—Idiots—Now it is up to you to call these poor fish another name. → Dumbbells
-D39: If the Democratic candidate is this he wiil satisfy his party all right. → will
 
 OCR review flags:
 A7: spell:eall>call
@@ -118,4 +117,4 @@ A60: spell:sehool>school
 D13: spell:lueky>lucky
 D34: spell:eccentrie>eccentric
 D38: spell:ciouded>clouded
-D39: spell:Demoeratie>Democratic
+D39: fixed

@@ -28,7 +28,7 @@ A1. Never found around a flapper. ~ CORSET
 A7. A dumb-waiter never does this. ~ SPEAKS
 A13. A city of ancient Palestine. ~ SAMARIA
 A14. Many a good man missed the point this way. ~ PARRIED
-A16. This fellow was the only man in the world for ie girl. ~ ADAM
+A16. This fellow was the only man in the world for the girl. ~ ADAM
 A17. The apple of discontent. ~ GREEN
 A19. Indian. (A combining form.) ~ INDO
 A20. French verse. ~ VERS
@@ -111,10 +111,8 @@ D66. Two-thirds of ten. ~ TN
 D68. Eleven hundred in ancient Rome. ~ MC
 
 
-Misprints, kept as printed (printed → meant):
-A16: This fellow was the only man in the world for ie girl. → the girl
-
 OCR review flags:
+A16: fixed
 A22: number-missing, text-moved
 A23: number-missing, text-moved
 A32: fixed

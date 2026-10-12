@@ -52,7 +52,7 @@ A40. What pessimists seek and find. ~ SORROW
 A43. A mid-western state. ~ IA
 A44. These are often caught in a trap. ~ MICE
 A47. What is the female of the species? ~ ENIGMA
-A48. Often seen with a floor-walk r ~ BABY
+A48. Often seen with a floor-walker ~ BABY
 A50. The principle of the thing. (Plural.) ~ ETHICS
 A52. Myself. ~ ME
 A53. For what is Mother Goose famous? ~ RHYMES
@@ -119,13 +119,11 @@ D75. Old Latin. (Abbr.) ~ OL
 D78. This has a captain. (Abbr.) ~ CO
 
 
-Misprints, kept as printed (printed → meant):
-A48: Often seen with a floor-walk r → floor-walker
-
 OCR review flags:
 A17: spell:sehool>school
 A24: spell:scientifie>scientific
 A28: spell:eatcher>catcher
+A48: fixed
 A77: spell:sueeess>success
 D5: fixed
 D14: spell:eut>cut

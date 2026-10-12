@@ -63,7 +63,7 @@ D5. A Greco-Egyptian vase shaped like a bucket. ~ SITULA
 D6. Generally speaking, this is what a woman generally does. ~ SPEAKS
 D7. The busiest part of a taxi. (Be careful which way you spell it.) ~ METRE
 D8. A camel jockey. ~ ARAB
-D9. Extremely wicked, enot mous. ~ HEINOUS
+D9. Extremely wicked, enormous. ~ HEINOUS
 D10. A rider of nightmares. ~ DREAMER
 D15. Low down, sometimes the bottom. ~ BASE
 D17. Venetian taxicab. ~ GONDOLA
@@ -87,13 +87,11 @@ D45. Good place for a blow-out. ~ TIRE
 D46. In Italy this will buy nineteen cents' worth of bananas. ~ LIRA
 
 
-Misprints, kept as printed (printed → meant):
-D9: Extremely wicked, enot mous. → enormous
-
 OCR review flags:
 A22: fixed
 A40: fixed
 D1: text-moved
 D2: number-missing, text-moved
+D9: fixed
 D23: fixed
 D31: number-corrected:51

@@ -85,7 +85,7 @@ D24. A Southern State. ~ GEORGIA
 D26. This chap might be called a risky fellow. ~ GAMBLER
 D27. This has two feet on the ground. ~ BIPED
 D28. What the little fishes do at market. ~ SMELL
-D30. A fisherman rarely offers this when he tella of his catch. ~ PROOF
+D30. A fisherman rarely offers this when he tells of his catch. ~ PROOF
 D31. A frolic with Judge, Jr., and Mac. ~ SPREE
 D33. Bustle. ~ ADO
 D35. What does everything come to sooner or later? ~ END
@@ -107,9 +107,6 @@ D62. This section is never on edge. ~ MID
 D64. Where is the over head? ~ UP
 
 
-Misprints, kept as printed (printed → meant):
-D30: A fisherman rarely offers this when he tella of his catch. → tells
-
 OCR review flags:
 A7: spell:mechanie>mechanic
 A22: spell:eovers>covers, spell:bloeks>blocks
@@ -120,6 +117,7 @@ A63: spell:Partieularly>Particularly
 D1: spell:Afriean>African
 D5: spell:conjunetion>conjunction
 D17: spell:eake>cake
+D30: fixed
 D31: fixed
 D42: fixed
 D47: fixed

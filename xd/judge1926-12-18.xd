@@ -9,7 +9,7 @@ Solution-Source: https://archive.org/details/sim_judge_1926-12-25_91/page/n31/mo
 
 WEDDING#THEATRE
 AMOEBA#O#OYSTER
-RE#WINDPIPES#EM
+RB#WINDPIPES#EM
 PET#SNEERED#ELI
 AREA#YANKS#EDEN
 TSARS#LES#SLIDE
@@ -28,7 +28,7 @@ A1. A hook-up with a loudspeaker. ~ WEDDING
 A7. People are always acting up here. ~ THEATRE
 A14. The generic name of various microscopic Protozoa. (How do you like that one?) ~ AMOEBA
 A16. This often gets stewed in restaurants. ~ OYSTER
-A17. Rabid Bohemians (init.) ~ RE
+A17. Rabid Bohemians (init.) ~ RB
 A18. Hot air escapes through these. ~ WINDPIPES
 A21. Unit of measurement. ~ EM
 A22. This is a darling. ~ PET
@@ -64,7 +64,7 @@ A66. Try and find one in a Pullman. ~ SLEEPER
 A67. Tall timber. ~ REDWOOD
 
 D1. Sitting Bull's favorite highway. ~ WARPATH
-D2. Hot stuff—when coaled. ~ EMEERS
+D2. Hot stuff—when coaled. ~ EMBERS
 D3. Execute. ~ DO
 D4. All wet. ~ DEW
 D5. Wading bird related to herons. ~ IBIS
@@ -103,8 +103,8 @@ D63. To have existence. ~ BE
 D65. This is a refusal. ~ NO
 
 
-Misprints, kept as printed (printed → meant):
-A17: Rabid Bohemians (init.) → RB
+Warnings:
+Note: The answer key for this puzzle, printed in the December 25, 1926 issue, gave 17 Across as RE (and so 2 Down as EMEERS), presumably in error. It has been corrected to RB and EMBERS.
 
 OCR review flags:
 A26: number-missing, text-moved

@@ -96,7 +96,7 @@ D28. What do you have when your spirits are low? ~ MEGRIMS
 D31. In what continent is Bolivia? (abbr.) ~ SA
 D34. What suffix is used to form the comparative degree? ~ ER
 D36. Where do little fish come from? ~ ROE
-D38. What does a fresh young man get who is too bree: y with his girl? ~ AIR
+D38. What does a fresh young man get who is too breezy with his girl? ~ AIR
 D39. What would you do at a filling station? ~ EAT
 D43. What are queens to the Hindoos? ~ RANEES
 D44. Name an Irish term of endearment. ~ ALANNAH
@@ -105,12 +105,12 @@ D46. What is a more respectful name for the old man? ~ SIRE
 D47. Name an adjective meaning fierte; stern. ~ GRIM
 D49. Name a little word used to express similarity. ~ AS
 D50. How must every lawyer do his business? ~ LEGALLY
-D51. What is the small e r of a plant called? ~ EARLET
+D51. What is the small ear of a plant called? ~ EARLET
 D53. What is the name of a variety of carnelian used as a gem? ~ SARD
 D55. What sign do many speedy motorists fail to heed? ~ STOP
 D58. Name a small insect. ~ MIDGE
 D60. Name a verb which means "to gnaw off; to corrode." ~ ERODE
-D63. What is the mo t famous thing about Pittsburgh? ~ SOOT
+D63. What is the most famous thing about Pittsburgh? ~ SOOT
 D67. Give a Spanish definite article. ~ EL
 D68. In what direction from New York is Bermuda? ~ SE
 D72. In what direction from New York is Portland, Maine? ~ NE
@@ -118,11 +118,6 @@ D73. What is the proper answer to Question 49 Vertical? ~ AS
 D74. What is an abbreviation for Solicitor at Law? ~ SL
 D76. What is the well known companion of "either"? ~ OR
 
-
-Misprints, kept as printed (printed → meant):
-D38: What does a fresh young man get who is too bree: y with his girl? → breezy
-D51: What is the small e r of a plant called? → ear
-D63: What is the mo t famous thing about Pittsburgh? → most
 
 OCR review flags:
 A19: fixed
@@ -132,4 +127,7 @@ A56: fixed
 A66: fixed
 A77: spell:suecessful>successful
 D7: fixed
+D38: fixed
+D51: fixed
+D63: fixed
 D72: fixed

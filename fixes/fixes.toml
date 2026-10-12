@@ -214,7 +214,7 @@ note = "61 Down, 'This has A beginning—finish it to suit yourself.', is A plus
 
 # Checked against the scan 2026-10-11.
 [puzzle."judge1928-09-01"]
-note = "The printed grid gives a number (28) to a square that starts no entry, so from there on the printed clue numbers run one higher than the standard numbering used here: printed 29 Across is 28 Across here, and so on to printed 61 Across (60 Across here); printed 30 Down is 29 Down here, through printed 54 Down (53 Down here). The clues are as printed, each under its own entry. The solution grid that ran on September 8, 1928 printed 1 Down as TAHG. It has been corrected to TANG."
+note = "The printed grid gives a number (28) to a square that starts no entry, so from there on the printed clue numbers run one higher than the standard numbering used here: printed 29 Across is 28 Across here, and so on to printed 61 Across (60 Across here); printed 30 Down is 29 Down here, through printed 54 Down (53 Down here). The clues are as printed, each under its own entry. The solution grid that ran on September 8, 1928 printed 1 Down as TAHG (and so 15 Across as HAIL). It has been corrected to TANG and NAIL."
 
 # Checked against the scan 2026-10-11.
 [puzzle."judge1929-03-02"]
@@ -1058,3 +1058,60 @@ note = "The answer key for this puzzle, printed in the February 16, 1929 issue, 
 
 [puzzle."judge1938-06-01"]
 note = "The answer key for this puzzle, printed in the July 1938 issue, gave 25 Across as HELLO (and so 23 Down as CLO); 36 Across as TL (and so 37 Down as LET), presumably in error. It has been corrected to HELIO and CIO; TR and RET."
+
+[puzzle."judge1926-12-18"]
+note = "The answer key for this puzzle, printed in the December 25, 1926 issue, gave 17 Across as RE (and so 2 Down as EMEERS), presumably in error. It has been corrected to RB and EMBERS."
+
+[puzzle."judge1927-03-05"]
+note = "The answer key for this puzzle, printed in the March 12, 1927 issue, gave 38 Across as ERACE (and so 39 Down as CEA), presumably in error. It has been corrected to ERASE and SEA."
+
+[puzzle."judge1927-08-06"]
+note = "The answer key for this puzzle, printed in the August 13, 1927 issue, gave 53 Across as SEAMAN (and so 43 Down as PATA), presumably in error. It has been corrected to SEAMEN and PATE."
+
+[puzzle."judge1928-02-18"]
+note = "The answer key for this puzzle, printed in the February 25, 1928 issue, gave 93 Across as PARTS (and so 88 Down as OTCU), presumably in error. It has been corrected to PARIS and OICU."
+
+[puzzle."judge1928-06-09"]
+note = "The answer key for this puzzle, printed in the June 16, 1928 issue, gave 56 Across as AND (and so 47 Down as IRDN), presumably in error. It has been corrected to ANO and IRON."
+
+[puzzle."judge1928-07-21"]
+note = "The answer key for this puzzle, printed in the July 28, 1928 issue, gave 26 Across as JRS (and so 8 Down as CADDJ), presumably in error. It has been corrected to YRS and CADDY."
+
+[puzzle."judge1931-04-11"]
+note = "The answer key for this puzzle, printed in the April 18, 1931 issue, gave 40 Across as SLATE (and so 31 Down as SNATE); 2 Down as ABEO (and so 20 Across as SO), presumably in error. It has been corrected to SLAKE and SNAKE; ABED and SD."
+
+[puzzle."judge1926-12-04"]
+note = "The printed grid numbers one square 43a, so from there on the printed numbers run one lower than the standard numbering used here: printed 43a Across is 44 Across here, printed 46 Across is 47 Across, and so on to printed 70 Across (71 Across here); printed 44 Down is 45 Down here, through printed 64 Down (65 Down here). The clues are as printed, each under its own entry."
+
+[puzzle."judge1925-05-23"]
+provenance = "The printed clue list numbers 72 Down as 71; the clue is under 72 Down here."
+
+[puzzle."judge1925-11-21"]
+provenance = "The printed clue list numbers 66 Across as 65; the clue is under 66 Across here."
+
+[puzzle."judge1926-01-02"]
+provenance = "The printed clue list numbers 5 Across as 3; the clue is under 5 Across here."
+
+[puzzle."judge1926-02-27"]
+provenance = "The printed clue list numbers 4 Across as 3; the clue is under 4 Across here."
+
+[puzzle."judge1926-04-03"]
+provenance = "The printed clue list numbers 71 Down as 69; the clue is under 71 Down here."
+
+[puzzle."judge1926-07-10"]
+provenance = "The printed clue list numbers 52 Down as 54; the clue is under 52 Down here."
+
+[puzzle."judge1927-09-10"]
+provenance = "The printed clue list numbers 36 Across as 35; the clue is under 36 Across here."
+
+[puzzle."judge1928-01-14"]
+provenance = "The printed clue list numbers 73 Across as 71 (between 72 and 74); the clue is under 73 Across here."
+
+[puzzle."judge1928-11-24"]
+provenance = "The printed clue list numbers 8 Across as 7; the clue is under 8 Across here."
+
+[puzzle."judge1930-08-23"]
+provenance = "The printed clue list numbers 62 Down as 63; the clue is under 62 Down here."
+
+[puzzle."judge1930-04-26"]
+provenance = "The printed clue list has no clue for 62 Down (SE) and prints 64 Down's clue, 'The show-me state.', as 62; it is under 64 Down here."

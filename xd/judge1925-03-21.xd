@@ -93,7 +93,7 @@ D4. New version (abbr.). ~ NV
 D6. What the members of the round table did when the twelve o'clock whistle blew. ~ ATE
 D7. An Englishman looks well with one. ~ MONOCLE
 D8. Something beggars do that whales don't. ~ BEG
-D9. Direction a souse will be headed one minute after he has started walking northwest (ablr.). ~ SE
+D9. Direction a souse will be headed one minute after he has started walking northwest (abbr.). ~ SE
 D10. Whose Izzy is he? ~ HER
 D11. The land of shillalah's and brickbats. ~ ERIN
 D12. The man who tires, also the old dun derby. ~ KELLY
@@ -146,10 +146,6 @@ D94. Eleven hundred. ~ MC
 D97. Ordinary yap (init.). ~ OY
 
 
-Misprints, kept as printed (printed → meant):
-A35: State once famous for fast horses and mint juleps (abr.). → abbr.
-D9: Direction a souse will be headed one minute after he has started walking northwest (ablr.). → abbr.
-
 OCR review flags:
 A1: spell:Pacifie>Pacific
 A25: spell:sueceed>succeed
@@ -159,6 +155,7 @@ A50: fixed
 A52: fixed
 A66: fixed
 A98: spell:sarcastie>sarcastic
+D9: fixed
 D21: number-corrected:1
 D51: fixed
 D78: fixed

@@ -51,7 +51,7 @@ A37. The worms have it. ~ SILK
 A38. A deadline recently revived. ~ WAIST
 A39. The beginning and end of a year. ~ YR
 A40. This is colored in the South. ~ BELT
-A41. Au extinct earth Quaker. ~ PENN
+A41. An extinct earth Quaker. ~ PENN
 A42. To remove a peach's coat. ~ PEEL
 A43. Greek God of War. ~ ARES
 A44. Carnal urge, sex appeal or what have you? ~ IT
@@ -106,12 +106,9 @@ D50. Conjunction. ~ OR
 D51. You can't get this out of college (abbr.). ~ BA
 
 
-Misprints, kept as printed (printed → meant):
-A41: Au extinct earth Quaker. → An extinct earth Quaker.
-
 OCR review flags:
 A15: spell:diseussed>discussed
-A41: spell:extinet>extinct
+A41: fixed
 A49: fixed
 D3: fixed
 D21: fixed

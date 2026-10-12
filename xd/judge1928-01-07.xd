@@ -82,7 +82,7 @@ D18. To accomplish. ~ DO
 D20. What are corset salesmen getting nowadays? ~ RARER
 D22. What are heard on the back stairs of haunted houses? ~ CREAKS
 D24. Name a place where they teach the best English. ~ ETON
-D29. What do societ" girls do at a "coming out party?" ~ EMERGE
+D29. What do society girls do at a "coming out party?" ~ EMERGE
 D31. What does a movie gal do when she sees a camera? ~ EMOTES
 D34. No "keep off the grass" sign effects this. ~ DEW
 D35. A racket. ~ DIN
@@ -107,9 +107,6 @@ D69. The third person sing. present indicative of "be." ~ IS
 D71. This means "to the" in French. ~ AU
 
 
-Misprints, kept as printed (printed → meant):
-D29: What do societ" girls do at a "coming out party?" → society
-
 OCR review flags:
 A7: number-missing
 A19: spell:Baltie>Baltic
@@ -118,6 +115,7 @@ A23: fixed
 A26: fixed
 A52: fixed
 D4: fixed
+D29: fixed
 D34: fixed
 D54: fixed
 D64: spell:Aceidents>Accidents

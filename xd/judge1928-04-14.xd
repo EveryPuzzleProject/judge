@@ -36,7 +36,7 @@ A19. The Kingdom of Persia. ~ IRAN
 A20. An informatory cough. ~ AHEM
 A22. These hang around civilized people. ~ TOGS
 A23. An abbreviation meaning "that is." ~ IE
-A24. Where the bar is still legallv in use. ~ GYM
+A24. Where the bar is still legally in use. ~ GYM
 A25. There's a catch in this. ~ TRAP
 A26. What one kind of corn does. ~ POPS
 A27. This is a knock. ~ TAP
@@ -54,7 +54,7 @@ A42. A degree. ~ AM
 A44. An edible plant. ~ CELERY
 A46. It's a mistake to do this. ~ ERR
 A47. This is a good date. ~ DROMEDARY
-A49. What people dowho stealawayin the dead of night. ~ ROB
+A49. What people do who steal away in the dead of night. ~ ROB
 A52. To relate minutely. ~ DETAIL
 A53. Abbreviation for a group of Islands in the Caribbean. ~ WI
 A54. What most people work for. ~ WAGE
@@ -128,7 +128,7 @@ D59. An element (abbr.). ~ TE
 D61. What Vertical 51 used to be. ~ REAL
 D63. This breaks without falling. ~ MORN
 D64. If you do this you can hold hands. ~ DEAL
-D67. People who talk hack to traffic cops. ~ FOOLS
+D67. People who talk back to traffic cops. ~ FOOLS
 D69. Anyone who does this brightens things up. ~ GILDS
 D71. What this country used to be. ~ FREE
 D72. What your coin comes from. ~ MINT
@@ -143,19 +143,16 @@ D82. One kind of a path. ~ BY
 D84. Independent Vitamins. (Init.) ~ IV
 
 
-Misprints, kept as printed (printed → meant):
-A24: Where the bar is still legallv in use. → legally
-A49: What people dowho stealawayin the dead of night. → What people do who steal away in the dead of night.
-D67: People who talk hack to traffic cops. → back
-
 OCR review flags:
 A1: fixed
 A18: fixed
 A20: fixed
 A22: fixed
+A24: fixed
 A31: spell:Seotch>Scotch
 A34: spell:seandal>scandal
 A41: spell:iittle>little
+A49: fixed
 A86: spell:conjunetion>conjunction
 D2: number-missing
 D3: number-missing
@@ -163,6 +160,6 @@ D9: spell:Archaie>Archaic
 D32: fixed
 D33: spell:niee>nice
 D43: spell:extinet>extinct
-D67: spell:traffie>traffic
+D67: fixed
 D74: spell:Poetie>Poetic
 D79: spell:aequire>acquire

@@ -35,7 +35,7 @@ A19. These help catch many poor fish. ~ RODS
 A20. A revolutionary leader. ~ LENIN
 A22. Suitable. ~ APT
 A23. A West Pointer. ~ CADET
-A24. A collection of houses, ~ TOWN
+A24. A collection of houses. ~ TOWN
 A26. You,can't do this without talk. ~ CHAT
 A28. A woolly butter. ~ RAM
 A31. What Dead Eye Dick had on his rifle. ~ NOTCHES
@@ -105,14 +105,12 @@ D64. Indispensable in traveling. ~ BAG
 D65. This is all wet. ~ SEA
 
 
-Misprints, kept as printed (printed → meant):
-A24: A collection of houses, → ends with a comma as printed; a period was meant
-A44: To charge. → printed as clue number '43a' (standard number 44); printed 44-70 are each one less than standard numbering
-
 Warnings:
 Rescued: its clues lined up for only 74% of slots, but the answer key sim_judge_1926-12-11_91/26#0 matches its grid exactly; check every clue
+Note: The printed grid numbers one square 43a, so from there on the printed numbers run one lower than the standard numbering used here: printed 43a Across is 44 Across here, printed 46 Across is 47 Across, and so on to printed 70 Across (71 Across here); printed 44 Down is 45 Down here, through printed 64 Down (65 Down here). The clues are as printed, each under its own entry.
 
 OCR review flags:
+A24: fixed
 A33: number-corrected:38
 A42: fixed
 A44: fixed

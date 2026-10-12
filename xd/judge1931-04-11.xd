@@ -10,13 +10,13 @@ Solution-Source: https://archive.org/details/sim_judge_1931-04-18_100/page/n31/m
 WASH#MAIDEN#ASH
 OBOE#OILER#ALEE
 RETARDS#NESTLER
-SO#DUEL###LOADS
+SD#DUEL###LOADS
 E#MAPLE#SLIMY##
 #RICES#STUDS#CS
 BATHE#STOKE#CAP
 EYRE#SNORE#PAVE
 TOE#CHARM#CUPID
-SN#SLATE#CAROL#
+SN#SLAKE#CAROL#
 ##SHAME#SATIN#C
 CREAM###ABET#BA
 HEARSES#TIRADES
@@ -32,7 +32,7 @@ A14. Wet-nurse to a machine. ~ OILER
 A15. Where the wind is tempered to the shorn lamb. ~ ALEE
 A16. What Prohibition does to temperance. ~ RETARDS
 A18. A snuggle-puppy. ~ NESTLER
-A20. Six dollars short. ~ SO
+A20. Six dollars short. ~ SD
 A21. This will take at least two seconds. ~ DUEL
 A22. These follow truckdrivers around. ~ LOADS
 A23. This one is sappy. ~ MAPLE
@@ -50,7 +50,7 @@ A36. This should be securely nailed. ~ TOE
 A37. This had better be left to the ladies. ~ CHARM
 A38. Advance agent for the Reno Chamber of Commerce. ~ CUPID
 A39. A couple of Poles (abbr.). ~ SN
-A40. To send relief to the dry area. ~ SLATE
+A40. To send relief to the dry area. ~ SLAKE
 A41. That Christmas night air. ~ CAROL
 A42. This one will make you blush. ~ SHAME
 A43. This is only of material value. ~ SATIN
@@ -67,7 +67,7 @@ A59. A wifely touch for a new hat. ~ CARESS
 A60. Be sure that your next China dishes come in these. ~ SETS
 
 D1. For a first word this is comparatively bad. ~ WORSE
-D2. Thousands die here daily. ~ ABEO
+D2. Thousands die here daily. ~ ABED
 D3. Self-filler. ~ SOT
 D4. A brow beater. ~ HEADACHE
 D5. When these are in good shape they figure to make a good living. ~ MODELS
@@ -89,7 +89,7 @@ D27. The place we all go by. ~ STORE
 D28. To prizefight, according to Gene Tunney. ~ CAVIL
 D29. After he did this he had a fine time. ~ SPED
 D30. It's odd when these are even. ~ BETS
-D31. The first kibitzer. ~ SNATE
+D31. The first kibitzer. ~ SNAKE
 D32. The misogynist of the poultry-yard. ~ CAPON
 D34. This one may fool you. ~ SHAM
 D35. The first people to value stocks and bonds. ~ PURITANS
@@ -109,10 +109,8 @@ D53. She's a little dear. ~ DOE
 D56. The initial writing of a successful essay. ~ SE
 
 
-Misprints, kept as printed (printed → meant):
-A40: To send relief to the dry area. → SLAKE (key prints T at r10c7)
-D2: Thousands die here daily. → ABED (key prints O at r4c2; A20 then SO, clue 'Six dollars short' wants SD)
-D31: The first kibitzer. → SNAKE (key prints T at r10c7)
+Warnings:
+Note: The answer key for this puzzle, printed in the April 18, 1931 issue, gave 40 Across as SLATE (and so 31 Down as SNATE); 2 Down as ABEO (and so 20 Across as SO), presumably in error. It has been corrected to SLAKE and SNAKE; ABED and SD.
 
 OCR review flags:
 A5: fixed

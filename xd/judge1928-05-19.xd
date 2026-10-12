@@ -86,14 +86,14 @@ D26. You can find this around a perfume bottle. ~ AROMA
 D28. You'll be this if you're watchful. ~ ALERT
 D29. Soup in Paris. ~ PUREE
 D30. Another name for a camel. ~ FAG
-D32. A prefix meaning il!. ~ MAL
+D32. A prefix meaning ill. ~ MAL
 D34. This is sometimes a bad break. ~ GAP
 D39. This kind of car is good as far as it goes. ~ USED
 D40. Synonym for Coolidge. ~ SILENT
 D41. Contrary to Horizontal 31—you can't keep this and give it away. ~ SECRET
 D42. To swing around. ~ SLUE
 D45. An imitation or reflection. ~ IMAGE
-D47. Aa adverb meaning full. ~ AMPLE
+D47. An adverb meaning full. ~ AMPLE
 D50. This is a sticking proposition. ~ STAB
 D51. What a magician keeps under his hat. ~ HARE
 D53. This works best when well-oiled. ~ LAMP
@@ -104,10 +104,6 @@ D58. What Paddock does to get on. ~ RUN
 D59. Point of the compass. ~ SSE
 D61. What a Lion-Tamer is to another Lion-Tamer (Abbr.) ~ BRO
 
-
-Misprints, kept as printed (printed → meant):
-D32: A prefix meaning il!. → ill
-D47: Aa adverb meaning full. → An adverb meaning full.
 
 OCR review flags:
 A1: fixed
@@ -120,5 +116,7 @@ D14: fixed
 D23: fixed
 D25: spell:soek>sock
 D26: fixed
+D32: fixed
+D47: fixed
 D53: fixed
 D55: spell:Seotch>Scotch
