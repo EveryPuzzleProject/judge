@@ -68,7 +68,7 @@ A75. The maid gave a .... when she found the body. ~ SHRIEK
 D1. The crime was discovered by the .... ~ MAID
 D2. Utterly Dumfounded (was she). ~ UD
 D3. Distressingly Tearful (to see). ~ DT
-D4. Exceedingly Handsome (had been ne). ~ EH
+D4. Exceedingly Handsome (had been he). ~ EH
 D5. .... decided upon as motive. ~ REVENGE
 D6. Now we're all ...., ~ SET
 D7. .... last, you bet; ~ AT
@@ -115,9 +115,6 @@ D72. Right Reasoning (will) ~ RR
 D73. Reward Everyone (with the culprit's well known monniker). ~ RE
 
 
-Misprints, kept as printed (printed → meant):
-D4: Exceedingly Handsome (had been ne). → he
-
 Warnings:
 Grid isn't symmetric: 6 square pair(s) differ (r4c12/r12c4, r4c15/r12c1, r5c5/r11c11, r6c11/r10c5, r6c15/r10c1, r7c5/r9c11). Check those black squares against the scan, or confirm the design is asymmetric.
 
@@ -153,6 +150,7 @@ A73: fixed
 A75: fixed
 D1: fixed
 D2: fixed
+D4: fixed
 D5: fixed
 D6: fixed
 D7: fixed

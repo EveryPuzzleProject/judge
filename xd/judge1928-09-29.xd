@@ -70,7 +70,7 @@ A71. One of the high points in golf. ~ TEE
 
 D1. A sparkler. ~ GEM
 D2. Eager; greedy. ~ AVID
-D3. Where you should eat when riding the rall. ~ DINER
+D3. Where you should eat when riding the rail. ~ DINER
 D5. On the point of. ~ AT
 D6. To pull for something. ~ ROW
 D7. A nip. ~ DRAM
@@ -114,13 +114,12 @@ D67. An egotistical individual. ~ ME
 
 
 Misprints, kept as printed (printed → meant):
-D3: Where you should eat when riding the rall. → rail
 D35: A Turkish chicken coup. → coop
 
 OCR review flags:
 A10: fixed
 D2: number-missing
-D3: number-missing
+D3: fixed
 D5: number-missing
 D6: number-missing
 D7: number-missing

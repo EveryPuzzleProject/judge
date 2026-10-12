@@ -1,11 +1,11 @@
 xdid	date	number	packet	state	reason	person	updated
-judge1924-11-01	1924-11-01	1	done	restored		y	2026-10-01
-judge1924-11-08	1924-11-08	2	done	restored		y	2026-09-29
-judge1924-11-15	1924-11-15		done	restored		y	2026-09-29
-judge1924-11-15b	1924-11-15	3	done	restored		y	2026-10-01
+judge1924-11-01	1924-11-01	1	done	restored		y	2026-10-12
+judge1924-11-08	1924-11-08	2	done	restored		y	2026-10-12
+judge1924-11-15	1924-11-15		done	restored		y	2026-10-12
+judge1924-11-15b	1924-11-15	3	done	restored		y	2026-10-12
 judge1924-11-22	1924-11-22	4	done	restored		y	2026-10-12
-judge1924-11-29	1924-11-29	5	done	restored		y	2026-10-06
-judge1924-12-06	1924-12-06	6	later	restored		y	2026-10-11
+judge1924-11-29	1924-11-29	5	done	restored		y	2026-10-12
+judge1924-12-06	1924-12-06	6	later	restored		y	2026-10-12
 judge1924-12-13	1924-12-13	7	done	restored		y	2026-10-12
 judge1924-12-20	1924-12-20	8	done	restored		y	2026-10-12
 judge1924-12-27	1924-12-27	9	done	restored		y	2026-10-01
@@ -42,7 +42,7 @@ judge1925-07-25	1925-07-25	39	done	restored		y	2026-10-12
 judge1925-09-12	1925-09-12	40	done	restored		y	2026-10-12
 judge1925-09-19	1925-09-19	41	done	restored		y	2026-10-01
 judge1925-09-26	1925-09-26	42	done	restored		y	2026-10-01
-judge1925-10-03	1925-10-03	43	done	restored		y	2026-10-01
+judge1925-10-03	1925-10-03	43	done	restored		y	2026-10-12
 judge1925-10-10	1925-10-10	44	done	restored		y	2026-10-01
 judge1925-10-17	1925-10-17	45	done	restored		y	2026-10-01
 judge1925-10-24	1925-10-24	46	done	restored		y	2026-10-01
@@ -142,7 +142,7 @@ judge1927-09-10	1927-09-10	20	done	restored		y	2026-10-12
 judge1927-09-17	1927-09-17	21	done	restored			2026-10-02
 judge1927-09-24	1927-09-24	22	done	restored			2026-10-12
 judge1927-10-01	1927-10-01	23	done	restored			2026-10-02
-judge1927-10-08	1927-10-08	24	done	restored		y	2026-10-11
+judge1927-10-08	1927-10-08	24	done	restored		y	2026-10-12
 judge1927-10-15	1927-10-15	25	done	restored		y	2026-10-12
 judge1927-10-15b	1927-10-15	26	done	restored			2026-10-12
 judge1927-10-29	1927-10-29	27	done	restored			2026-10-12
@@ -181,13 +181,13 @@ judge1928-07-21	1928-07-21	61	done	restored			2026-10-12
 judge1928-07-28	1928-07-28	62	done	restored			2026-10-02
 judge1928-08-04	1928-08-04	63	done	restored		y	2026-10-12
 judge1928-08-11	1928-08-11	64	done	restored			2026-10-02
-judge1928-08-18	1928-08-18	65	done	restored			2026-10-12
+judge1928-08-18	1928-08-18	65	done	restored		y	2026-10-12
 judge1928-08-25	1928-08-25	66	done	restored			2026-10-02
 judge1928-09-01	1928-09-01	67	done	restored		y	2026-10-12
 judge1928-09-08	1928-09-08	68	done	restored			2026-10-02
 judge1928-09-15	1928-09-15	69	done	restored			2026-10-02
 judge1928-09-22	1928-09-22	70	done	restored			2026-10-12
-judge1928-09-29	1928-09-29	71	done	restored		y	2026-10-11
+judge1928-09-29	1928-09-29	71	done	restored		y	2026-10-12
 judge1928-10-06	1928-10-06	72	done	restored			2026-10-02
 judge1928-10-13	1928-10-13	73	done	restored			2026-10-02
 judge1928-10-20	1928-10-20	74	done	restored		y	2026-10-11
@@ -246,7 +246,7 @@ judge1929-11-02	1929-11-02	128	judge-1929-1930	restored			2026-10-08
 judge1929-11-09	1929-11-09	129	judge-1929-1930	restored			2026-10-08
 judge1929-11-16	1929-11-16	130	judge-1929-1930	restored			2026-10-08
 judge1929-11-23	1929-11-23	131	judge-1929-1930	restored			2026-10-12
-judge1929-11-30	1929-11-30	132	judge-1929-1930	restored			2026-10-08
+judge1929-11-30	1929-11-30	132	judge-1929-1930	restored		y	2026-10-12
 judge1929-12-07	1929-12-07	133	judge-1929-1930	restored			2026-10-08
 judge1929-12-14	1929-12-14	134	judge-1929-1930	restored		y	2026-10-11
 judge1929-12-21	1929-12-21	135	judge-1929-1930	restored			2026-10-08
@@ -344,10 +344,10 @@ judge1931-09-19	1931-09-19	226	later	restored			2026-10-08
 judge1931-09-26	1931-09-26	227	later	restored			2026-10-08
 judge1931-10-03	1931-10-03	228	later	restored		y	2026-10-11
 judge1931-10-10	1931-10-10	229	later	restored			2026-10-12
-judge1931-10-17	1931-10-17	230	later	restored			2026-10-08
+judge1931-10-17	1931-10-17	230	later	restored		y	2026-10-12
 judge1931-10-24	1931-10-24	231	later	restored			2026-10-08
 judge1931-10-31	1931-10-31	232	later	restored			2026-10-08
-judge1931-11-07	1931-11-07	233	later	restored			2026-10-08
+judge1931-11-07	1931-11-07	233	later	restored		y	2026-10-12
 judge1931-11-14	1931-11-14	234	later	restored			2026-10-08
 judge1931-11-21	1931-11-21	235	later	restored			2026-10-08
 judge1931-11-28	1931-11-28	236	later	restored			2026-10-08
@@ -455,7 +455,7 @@ judge1935-07-01b	1935-07-01	337	later	restored			2026-10-08
 judge1935-08-01	1935-08-01	338	later	restored		y	2026-10-11
 judge1935-08-01b	1935-08-01	339	later	restored		y	2026-10-12
 judge1935-09-01	1935-09-01	340	later	restored		y	2026-10-12
-judge1935-09-01b	1935-09-01	341	later	restored			2026-10-08
+judge1935-09-01b	1935-09-01	341	later	restored		y	2026-10-12
 judge1935-10-01	1935-10-01	342	later	restored		y	2026-10-12
 judge1935-10-01b	1935-10-01	343	later	restored		y	2026-10-12
 judge1935-11-01	1935-11-01	345	later	restored			2026-10-08

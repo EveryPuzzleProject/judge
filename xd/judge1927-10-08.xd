@@ -73,7 +73,7 @@ D10. What adjective describes the notched edge of a leaf? ~ SERRATE
 D11. What kind of music comes from a chorus? ~ CHORAL
 D13. Who read Shakespeare at the age of ten? ~ READER
 D14. What are they always shooting down South? ~ CRAPS
-D16. What are the brightest tbings in Hollywood? ~ STARS
+D16. What are the brightest things in Hollywood? ~ STARS
 D19. What is a growing ambition with some young men? ~ MOUSTACHE
 D22. How did she answer when angry? (Past tense.) ~ SNAPPED
 D23. What people are often seen in dental offices? ~ MOANERS
@@ -97,14 +97,12 @@ D57. What is it women like to keep to themselves? ~ AGE
 D58. What could you call a very little butter? ~ KID
 
 
-Misprints, kept as printed (printed → meant):
-D16: What are the brightest tbings in Hollywood? → things
-
 OCR review flags:
 A24: spell:construeting>constructing
 A25: fixed
 A33: re-read
 D4: spell:seientists>scientists
+D16: fixed
 D34: fixed
 D39: re-read
 D54: fixed

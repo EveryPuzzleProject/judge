@@ -105,16 +105,13 @@ D56. This kind of a shirt is the very latest. ~ CLEAN
 D57. A kind of lens. ~ TORIC
 D58. This is what Greta Garbo reaches for instead of a Lucky. ~ SWEDE
 D60. This is what some of the new auto horns carry. ~ TUNE
-D61. Tbis took a sudden jump last month. ~ FROG
+D61. This took a sudden jump last month. ~ FROG
 D62. You are apt to do this when you are bored to tears in a dentist's chair. ~ MOAN
 D65. This used to be quite an outfit. ~ RIG
 D66. That woman over there with her back turned. ~ SHE
 D70. This is one way to get in Dutch. ~ DU
 D71. An old-fashioned mummy. ~ MA
 
-
-Misprints, kept as printed (printed → meant):
-D61: Tbis took a sudden jump last month. → This
 
 OCR review flags:
 A1: spell:giris>girls
@@ -123,5 +120,6 @@ A54: spell:traffie>traffic
 A71: spell:eleanser>cleanser
 D12: fixed
 D51: number-missing
+D61: fixed
 D66: fixed
 D71: fixed
