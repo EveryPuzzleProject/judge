@@ -85,7 +85,7 @@ grid = [
 
 [puzzle."judge1924-11-22"]
 title = "Judge's Crossword Puzzle No. 4"
-provenance = "The black squares include cross-hatched ones that spell HA HA in two corners (clue 37 Across); the solid ones spell JUDGE. The puzzle has one-letter entries (20 Across = K, 80 Across = I) in the holes of the letters; the clue numbering follows the printed puzzle, not standard numbering rules. Solution not available: it would have run in the 29 November 1924 issue, whose archive.org scan is incomplete. Black squares spell JUDGE; hatched cells in the scan. Grid needs a hand correction."
+provenance = "The black squares include cross-hatched ones that spell HA HA in two corners (clue 37 Across); the solid ones spell JUDGE. The puzzle has one-letter entries (20 Across = K, 80 Across = I) in the holes of the letters; the clue numbering follows the printed puzzle, not standard numbering rules. The solution ran under No. 5 in the 29 November 1924 issue (\"Answer to Puzzle No. 4\"), on the one puzzle page that issue's archive.org scan has."
 # "Answer to Puzzle No. 4" is under No. 5 on the one surviving puzzle page of
 # the 29 Nov 1924 issue (located by a page hint, see that page below).
 solution_from = "sim_judge_1924-11-29_87/0#0"
