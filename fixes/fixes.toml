@@ -10,6 +10,12 @@
 #   [page."<identifier>".34]
 #   clue_page = 33
 
+# Judge's press had a broken c that OCR reads as e ("elean" for "clean"): that fix
+# is made even when the misreading is itself a (rare) word. Other publications
+# only get it proposed, as a spell hint.
+[ocr]
+sure_swaps = ["e>c"]
+
 # ---------------------------------------------------------------------------
 # The first Judge crosswords (Nov-Dec 1924)
 # ---------------------------------------------------------------------------
