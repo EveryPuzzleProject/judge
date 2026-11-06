@@ -75,31 +75,39 @@ def main() -> None:
     page = f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Crossword Puzzles in Judge</title>
+<link rel="stylesheet" href="https://everypuzzleproject.org/site.css">
 <style>
-:root {{ --bg:#fbfaf7; --fg:#1d1d1b; --muted:#6b6a65; --line:#e3e0d8; --card:#ffffff; --accent:#8a1c1c; }}
-@media (prefers-color-scheme: dark) {{ :root:not([data-theme="light"]) {{ --bg:#161614; --fg:#ecebe6; --muted:#a3a19a; --line:#34332f; --card:#1f1f1c; --accent:#e07a6a; }} }}
-:root[data-theme="dark"] {{ --bg:#161614; --fg:#ecebe6; --muted:#a3a19a; --line:#34332f; --card:#1f1f1c; --accent:#e07a6a; }}
+h1, h2 {{ font-family:inherit; font-weight:bold; line-height:inherit }} .epp-header .wrap {{ max-width:960px }}
+:root {{ --pg-bg:#fbfaf7; --fg:#1d1d1b; --pg-muted:#6b6a65; --pg-line:#e3e0d8; --card:#ffffff; --pg-accent:#8a1c1c; }}
+@media (prefers-color-scheme: dark) {{ :root:not([data-theme="light"]) {{ --pg-bg:#161614; --fg:#ecebe6; --pg-muted:#a3a19a; --pg-line:#34332f; --card:#1f1f1c; --pg-accent:#e07a6a; }} }}
+:root[data-theme="dark"] {{ --pg-bg:#161614; --fg:#ecebe6; --pg-muted:#a3a19a; --pg-line:#34332f; --card:#1f1f1c; --pg-accent:#e07a6a; }}
 * {{ box-sizing:border-box }}
-body {{ margin:0; background:var(--bg); color:var(--fg); font:16px/1.55 Georgia, "Times New Roman", serif }}
+body {{ margin:0; background:var(--pg-bg); color:var(--fg); font:16px/1.55 Georgia, "Times New Roman", serif }}
 main {{ max-width:960px; margin:0 auto; padding:32px 16px 64px }}
 h1 {{ font-size:2rem; margin:0 0 4px }} h2 {{ margin:40px 0 8px; font-size:1.35rem; border-bottom:2px solid var(--fg); padding-bottom:4px }}
 h3 {{ margin:24px 0 6px; font-size:1.05rem }}
-a {{ color:var(--accent) }} .muted {{ color:var(--muted) }} .lede {{ font-size:1.1rem }}
-.cta {{ background:var(--card); border:1px solid var(--line); border-left:4px solid var(--accent); padding:16px 20px; margin:20px 0 }}
+a {{ color:var(--pg-accent) }} .muted {{ color:var(--pg-muted) }} .lede {{ font-size:1.1rem }}
+.cta {{ background:var(--card); border:1px solid var(--pg-line); border-left:4px solid var(--pg-accent); padding:16px 20px; margin:20px 0 }}
 .cta ol {{ margin:8px 0 0; padding-left:22px }}
 table {{ width:100%; border-collapse:collapse; font:14px/1.4 system-ui, sans-serif }}
-th, td {{ text-align:left; padding:6px 8px; border-bottom:1px solid var(--line); vertical-align:top }}
+th, td {{ text-align:left; padding:6px 8px; border-bottom:1px solid var(--pg-line); vertical-align:top }}
 th {{ font-weight:600 }} .scroll {{ overflow-x:auto }} td:first-child, td.id {{ white-space:nowrap }}
 .bar {{ display:flex; align-items:center; gap:8px; font:12px system-ui, sans-serif; margin:2px 0 }}
-.yr {{ width:3em; color:var(--muted) }} .n {{ width:4.5em; text-align:right; color:var(--muted) }}
+.yr {{ width:3em; color:var(--pg-muted) }} .n {{ width:4.5em; text-align:right; color:var(--pg-muted) }}
 .track {{ flex:1; display:flex; height:12px; border-radius:2px; overflow:hidden; background:#d9d5cc }}
 .legend {{ display:flex; flex-wrap:wrap; gap:14px; font:13px system-ui, sans-serif; margin:8px 0 }}
 .key {{ display:inline-flex; align-items:center; gap:6px }} .sw {{ width:12px; height:12px; border-radius:2px; display:inline-block }}
 .pill {{ font-size:12px; padding:1px 6px; border-radius:9px; color:#fff; white-space:nowrap }}
 .filters {{ display:flex; flex-wrap:wrap; gap:8px; margin:8px 0; font:14px system-ui, sans-serif }}
-input, select {{ font:inherit; padding:4px 8px; background:var(--card); color:var(--fg); border:1px solid var(--line); border-radius:4px }}
-footer {{ margin-top:48px; font:13px system-ui, sans-serif; color:var(--muted) }}
-</style></head><body><main>
+input, select {{ font:inherit; padding:4px 8px; background:var(--card); color:var(--fg); border:1px solid var(--pg-line); border-radius:4px }}
+footer {{ margin-top:48px; font:13px system-ui, sans-serif; color:var(--pg-muted) }}
+</style></head><body>
+<header class="epp-header"><div class="wrap">
+  <a href="https://everypuzzleproject.org/">Every Puzzle Project</a>
+  <span class="epp-page">Judge</span>
+  <nav><a href="https://github.com/EveryPuzzleProject/judge">Repo</a></nav>
+</div></header>
+<main>
 <h1>Crossword Puzzles in Judge</h1>
 <p class="lede">Judge, the New York humor magazine, ran its first crossword on November 1, 1924, billed as the first of a weekly
 series of "Home Destroyers". Two weeks later the whole cover was a crossword. The puzzles kept coming, weekly and then monthly,
