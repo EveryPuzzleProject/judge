@@ -43,7 +43,7 @@ which ones, and we'll arrange how to send them.
 `judge-scans`; the tools are in [blitz](https://github.com/EveryPuzzleProject/blitz)
 and [xword-ocr](https://github.com/EveryPuzzleProject/xword-ocr), which read this
 repo's `fixes/` from a checkout beside them. Background, sources and open
-questions are in the [catalog entry](https://github.com/EveryPuzzleProject/catalog/blob/main/publications/judge.md).
+questions are in the [census entry](https://github.com/EveryPuzzleProject/census/blob/main/publications/judge.md).
 
 ## In gxd
 
