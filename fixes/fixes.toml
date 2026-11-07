@@ -542,7 +542,7 @@ extra_pages = [36, 39]
 # Checked against the scans by the user, 2026-10-11.
 [puzzle."judge1930-05-17"]
 puzzle_number = "156"
-note = "Printed as No. 155, a misprint: this is No. 156."
+editorial_note = "Printed as No. 155, a misprint: this is No. 156."
 provenance = "Printed as No. 155, a misprint: No. 155 ran the week before (May 10), and this is No. 156 by the series and by the solutions, which ran as printed puzzles' solutions in the following issues (the user checked the scans)."
 
 # Pages whose text says puzzle/crossword/solution, near a gap (sweep 2026-10-11).
@@ -1121,3 +1121,15 @@ provenance = "The printed clue list numbers 62 Down as 63; the clue is under 62 
 
 [puzzle."judge1930-04-26"]
 provenance = "The printed clue list has no clue for 62 Down (SE) and prints 64 Down's clue, 'The show-me state.', as 62; it is under 64 Down here."
+
+# gxd issue 22: Judge's numbered series go to gxd by number (series.tsv gxd_pubid), so
+# every numbered puzzle needs its number and the date it ran (checked by the user, 2026-10-24).
+[puzzle."judge1927-05-07"]
+puzzle_number = "2"
+editorial_note = "Printed unnumbered, as the \"DAILY X WORD PUZZLE\" in this issue's tabloid parody; No. 2 by count, between No. 1 (April 30) and No. 3 (May 14)."
+provenance = "The May 7, 1927 issue was a 'TABLOID NUMBER', a parody of a tabloid newspaper; its crossword ran in the parody as 'DAILY X WORD PUZZLE', with no number or byline. It falls between No. 1 (April 30) and No. 3 (May 14), and the series has no other No. 2 (the user checked the scan)."
+
+[puzzle."judge1927-10-15b"]
+date = "1927-10-22"
+editorial_note = "Ran October 22, 1927: archive.org's scan of the October 15 issue holds the next week's issue too, and this puzzle's answers ran a week later, beside No. 27 (October 29)."
+provenance = "archive.org's item sim_judge_1927-10-15_93 holds two issues: No. 25 on page n31 (October 15) and No. 26 on page n63 (October 22, whose masthead the OCR can't read). No. 25's answers are on No. 26's page and No. 26's answers are in the next item (sim_judge_1927-10-22_93, page n32), beside No. 27 (October 29): a week apart each time."
