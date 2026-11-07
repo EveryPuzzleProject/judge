@@ -12,7 +12,7 @@ ROOT = Path(__file__).resolve().parent.parent
 BLITZ = "https://github.com/EveryPuzzleProject/blitz"
 BLITZ_JUDGE = "https://github.com/EveryPuzzleProject/blitz/tree/main/publications/judge"
 REQUEST = "https://github.com/EveryPuzzleProject/blitz/issues/new?template=request-blitz.yml"
-CATALOG = "https://github.com/EveryPuzzleProject/catalog/blob/main/publications/judge.md"
+CENSUS = "https://github.com/EveryPuzzleProject/census/blob/main/publications/judge.md"
 REPO = "https://github.com/EveryPuzzleProject/judge"
 STATES = [  # (state, label)
     ("in-gxd", "In the archive"),
@@ -151,7 +151,7 @@ US and Canadian papers ran them in different orders, and at least one paper prin
 
 <footer>Part of the <a href="https://github.com/EveryPuzzleProject">Every Puzzle Project</a>. Data: <a href="{REPO}">{REPO.split('github.com/')[1]}</a>
 (<a href="status.tsv">status.tsv</a>, <a href="funnies.tsv">funnies.tsv</a>); review state comes from <a href="{BLITZ}">blitz</a>; history and sources in the
-<a href="{CATALOG}">catalog</a>. Puzzles themselves aren't published here. Generated {dt.date.today().isoformat()}.</footer>
+<a href="{CENSUS}">census</a>. Puzzles themselves aren't published here. Generated {dt.date.today().isoformat()}.</footer>
 </main>
 <script>
 const q=document.getElementById('q'), st=document.getElementById('st'), rows=[...document.querySelectorAll('#all tbody tr')];
