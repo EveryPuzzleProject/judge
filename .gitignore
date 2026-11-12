@@ -2,3 +2,4 @@ site/
 status.tsv
 __pycache__/
 .claude/worktrees/
+.records-cache/
