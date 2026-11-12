@@ -26,6 +26,18 @@ jobs:
           python-version: "3.12"
       - run: python tools/build_status.py
       - run: python tools/render.py
+      # Each puzzle's record page (everypuzzleproject.org/judge/<date>/), by blitz's generator.
+      # The review packages it reads are cached between runs and refetched when the puzzles change.
+      - uses: actions/checkout@v4
+        with:
+          repository: EveryPuzzleProject/blitz
+          path: .blitz
+      - uses: actions/cache@v4
+        with:
+          path: .records-cache
+          key: records-${{ hashFiles('xd/**', 'gxd-exports.tsv', 'fixes/corrections.jsonl') }}
+      - run: pip install pillow
+      - run: PYTHONPATH=.blitz/src python -m blitz.cli records . --pub judge --out site --cache .records-cache
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

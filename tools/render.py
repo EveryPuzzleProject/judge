@@ -68,8 +68,14 @@ def main() -> None:
             seg="".join(f'<span style="flex:{c[s]};background:{COLORS[s]}" title="{lab}: {c[s]}"></span>' for s, lab in STATES if c[s]))
         for y, c in sorted(by_year.items()))
     legend = "".join(f'<span class=key><span class=sw style="background:{COLORS[s]}"></span>{lab} <span class=muted>({count[s]})</span></span>' for s, lab in STATES if count[s])
+    have_record = {p.stem for p in (ROOT / "xd").glob("*.xd")}
+
+    def record_link(r) -> str:  # the puzzle's record page, written beside this one by blitz records (pages.yml)
+        x = r["xdid"]
+        return f'<a href="{e(x.removeprefix("judge"))}/">{e(x)}</a>' if x in have_record else e(x)
+
     all_rows = "\n".join(
-        f'<tr data-state="{e(r["state"])}"><td>{e(r["date"])}</td><td>{e(r["number"])}</td><td>{e(r["run"])}</td><td>{pill(r["state"])}</td><td class=id>{e(r["xdid"])}</td><td>{e(r["note"])}</td></tr>'
+        f'<tr data-state="{e(r["state"])}"><td>{e(r["date"])}</td><td>{e(r["number"])}</td><td>{e(r["run"])}</td><td>{pill(r["state"])}</td><td class=id>{record_link(r)}</td><td>{e(r["note"])}</td></tr>'
         for r in sorted(rows, key=lambda r: r["date"]))
 
     page = f"""<!doctype html>
